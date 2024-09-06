@@ -12,6 +12,7 @@ Additional details about the course are available on the [course website](https:
 Class Number: 6328
 Delivery Method: In-person in SYRE 2016 (Surrey)
 
+---
 ## Course Instructor
 
 **Name:** Parsa Rajabi
@@ -20,12 +21,13 @@ Delivery Method: In-person in SYRE 2016 (Surrey)
 
 Please refer to [teaching team](contact.md) page for how to get in touch with the instructor and TAs (office hours, email, etc.).
 
+---
 ## Course Format 
 
 - **Tuesdays 8:30-10:20 AM - SYRE 2016 (Surrey)**
 - **Fridays 8:30-9:20 AM - Asynchronous (No live session)**
 
-Lectures will be held in-person on Tuesdays from 8:30-10:20am in SYRE 2016. Friday session will be dedicated to asynchronous activities such as labs, assignments, and project work. Students are expected to attend all live lectures on Tuesdays and participate in all course activities.
+Lectures will be held **in-person** on Tuesdays from 8:30-10:20am in SYRE 2016. Friday session will be dedicated to asynchronous activities such as assigned readings, videos, labs, assignments, and project work (**there will be no live lectures**). Students are expected to attend all live lectures on Tuesdays and participate in all course activities to succeed in the course.
 
 ---
 
@@ -34,6 +36,8 @@ Lectures will be held in-person on Tuesdays from 8:30-10:20am in SYRE 2016. Frid
 > An overview of various techniques used for software development and software project management. Major tasks and phases in modern software development, including requirements, analysis, documentation, design, implementation, testing,and maintenance. Project management issues are also introduced. Students complete a team project using an iterative development process. Students with credit for CMPT 275 may not take this course for further credit.
 
 You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2023/fall.html).
+
+---
 
 ## Topics
 
@@ -53,6 +57,8 @@ The topics for this course are:
 - **Refactoring**: Improving code structure and performance.
 - **Group Dynamics**: Understanding team collaboration and psychology.
 
+---
+
 ## Reference Books
 
 - Software Engineering, Ian Sommerville, Addison Wesley
@@ -60,9 +66,10 @@ The topics for this course are:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler, Kent Beck
 - Why Programs Fail: A Guide to Systematic Debugging, Andreas Zeller
 
+---
 ## Course Evaluation
 
-The grading scheme for this course is:
+### Grading Scheme
 
 |  **Item**   | **Weight** |
 | :---------: | :--------: |
@@ -76,7 +83,7 @@ The grading scheme for this course is:
 
 - Professionalism is expected at all times. This includes respectful communication with your peers and instructors, as well as timely responses to teaching team emails (e.g. within 2 business days) and participation in group work. Students who do not meet the standards of professionalism will be subject to penalties (e.g. final grade deductions).
 
-## Passing Criteria
+### Passing Criteria
 
 - Students must attain the following in order to obtain a clear pass (C- or better) in the course:
   - A passing grade (>50%) on the weighted average of the exams (midterm and final)
@@ -96,9 +103,9 @@ To maintain fairness and academic integrity, all group members are expected to c
 
 Non-contribution or “free riding” is not acceptable in this course. Every student is expected to contribute meaningfully to group projects. **Repeated failure to participate will result in penalties.** 
 
-
+---
 ## Course and SFU Policies
-
+---
 ### Late Deliverables 
 
 All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. Course elements such as assignments and labs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
@@ -109,7 +116,9 @@ Make-up assessments (including assignments, project, exams) will not be given. S
  
 While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
-In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verfied documentation. Refer to accommodations and concessions section below for more details.
+In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
+
+---
 
 ### Classroom Etiquette
 
@@ -119,11 +128,12 @@ In the class, we encourage asking questions, sharing ideas, and engaging in disc
 
 Giving and receiving feedback is one of the core activities in this class. When giving and receiving feedback, it is important to keep in mind that we give feedback because we want all projects to succeed. Our feedback will highlight parts that work well but also point out aspects that can be improved. The feedback should not be taken personally or seen as an attack on students' knowledge or capabilities. Thus, we will learn a craft of constructive feedback and practice it in the class regularly.
 
+---
 ### Assignment/Project/Lab Policy
 
 - You may not send the instructor or the TAs draft assignments/project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
 - Assignments/labs/projects may be shared/shown in class and online (with no student name/ID)
-
+---
 ### Remarking Policy
 
 As a teaching team, we strive to provide fair and accurate assessments of your work while also providing as much feedback. We encourage you to review the feedback and spend your time/energy where it serves you the most which will be learning from past mistakes and self-improvement. While you reserve your right to ask for a re-grade, we find debating grades an incredible drain on course staff time and energy and prevents us from serving students well and focusing on most important aspects of the course. 
@@ -144,6 +154,7 @@ The re-marking request will be reviewed by the teaching team and if accepted, th
 
 Each student may submit two remarking request for the term.
 
+---
 ### SFU Student Code of Conduct
 
 The [S 10.05 Student Conduct Policy](https://www.sfu.ca/students/studentconduct/policy.html) defines students' basic responsibilities as academic community members, defines inappropriate student conduct, and provides procedures and outcomes to be invoked if students engage in such behaviour.
