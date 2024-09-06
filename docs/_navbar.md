@@ -1,0 +1,6 @@
+- [Syllabus](syllabus)
+- [AI Policy](ai-policy)
+- [Course Schedule](schedule)
+- [Contact Parsa or TAs](contact)
+- [Resources](resources)
+- [Feedback](feedback)
