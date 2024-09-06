@@ -9,8 +9,8 @@ Additional details about the course are available on the [course website](https:
 
 **Fall 2024 - CMPT 276 (D200)** || **Introduction to Software Engineering (3)**
 
-Class Number: 6328
-Delivery Method: In-person in SYRE 2016 (Surrey)
+- Class Number: 6328
+- Delivery Method: In-person in SYRE 2016 (Surrey)
 
 ---
 ## Course Instructor
@@ -19,7 +19,7 @@ Delivery Method: In-person in SYRE 2016 (Surrey)
 
 **Office:** SYRC 5127
 
-Please refer to [teaching team](contact.md) page for how to get in touch with the instructor and TAs (office hours, email, etc.).
+Please refer to [teaching team](teaching-team.md) page for how to get in touch with the instructor and TAs (office hours, email, etc.).
 
 ---
 ## Course Format 
@@ -69,8 +69,6 @@ The topics for this course are:
 ---
 ## Course Evaluation
 
-### Grading Scheme
-
 |  **Item**   | **Weight** |
 | :---------: | :--------: |
 |    Labs     |    10%     |
@@ -81,7 +79,7 @@ The topics for this course are:
 
 *Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.*
 
-- Professionalism is expected at all times. This includes respectful communication with your peers and instructors, as well as timely responses to teaching team emails (e.g. within 2 business days) and participation in group work. Students who do not meet the standards of professionalism will be subject to penalties (e.g. final grade deductions).
+- [Professionalism](/teaching-team?id=professionalism) is expected at all times. This includes respectful communication with your peers and instructors, as well as timely responses to teaching team emails (e.g. within 2 business days) and participation in group work. Students who do not meet the standards of professionalism will be subject to penalties (e.g. final grade deductions).
 
 ### Passing Criteria
 
