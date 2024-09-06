@@ -1,5 +1,5 @@
 - [Syllabus](syllabus)
-- [Contact Parsa or TAs](contact)
+- [Contact Parsa or TAs](teaching-team)
 - [Resources](resources)
 - [Feedback](feedback)
 <!-- - **LMS Links**
