@@ -18,7 +18,7 @@ Delivery Method: In-person in SYRE 2016 (Surrey)
 
 **Office:** SYRC 5127
 
-Please refer to [teaching team](contact.md) page for how to get in touch with the instructor and TAs.
+Please refer to [teaching team](contact.md) page for how to get in touch with the instructor and TAs (office hours, email, etc.).
 
 ## Course Format 
 
@@ -72,17 +72,36 @@ The grading scheme for this course is:
 |   Project   |    30%     |
 | Final Exam  |    30%     |
 
+*Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.*
+
+- Professionalism is expected at all times. This includes respectful communication with your peers and instructors, as well as timely responses to teaching team emails (e.g. within 2 business days) and participation in group work. Students who do not meet the standards of professionalism will be subject to penalties (e.g. final grade deductions).
+
 ## Passing Criteria
 
 - Students must attain the following in order to obtain a clear pass (C- or better) in the course:
   - A passing grade (>50%) on the weighted average of the exams (midterm and final)
   - A passing grade (>50%) on the course project 
 
+## Importance of Group Work and Participation Policy
+
+Group work is a vital component of this course, reflecting the collaborative nature of real-world projects. Working effectively in a team is essential for your professional development. It’s important to approach group tasks with respect for each other’s ideas and perspectives, and to ensure that everyone contributes equitably.
+
+Your team's performance in the course project plays a large part in your individual mark. In addition, in your individual mark the peer component relates to your contributions and participation in your team. 
+
+To maintain fairness and academic integrity, all group members are expected to contribute equally to the project. Here’s how we handle group participation:
+
+1.	**Peer Resolution**: When non-participation issues arise, the first step is for group members to address and attempt to resolve them internally. It’s important to document these efforts—such as meeting notes, emails, or messages on platforms like Slack or Discord—in case further action is required.
+2.	**Reporting Non-Participation**: If internal resolution efforts do not succeed, the concerned student(s) should schedule a meeting with their TA. However, it’s important to note that without sufficient evidence of attempts at peer resolution, the TA will not proceed with scheduling the meeting. During the meeting, if scheduled, students should present the documented evidence and discuss possible next steps with the TA.
+3.	**TA Intervention**: Following the consultation, the TA may involve other teaching team members to ensure that the workload is fairly distributed and completed by all group members. If additional actions are needed, the teaching team will directly engage with the specific group or individual members to determine the best course of action.
+
+Non-contribution or “free riding” is not acceptable in this course. Every student is expected to contribute meaningfully to group projects. **Repeated failure to participate will result in penalties.** 
+
+
 ## Course and SFU Policies
 
-### Late Policy 
+### Late Deliverables 
 
-Course elements such as assignments and labs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
+All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. Course elements such as assignments and labs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
 
 Exams (including the midterm and final) and course project are fixed and cannot be deferred. If you miss an exam, you will receive a score of zero (no exceptions). Project submissions must be made on time, and late submissions will not be accepted.
 
@@ -91,6 +110,14 @@ Make-up assessments (including assignments, project, exams) will not be given. S
 While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
 In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verfied documentation. Refer to accommodations and concessions section below for more details.
+
+### Classroom Etiquette
+
+The classroom principles that we will follow in the classroom are transparency, equity and inclusion, participation, active dialog, and constructive critique. Students are expected to support each other, learn from each other, and help each other grow. Students have the responsibility to conduct themselves in ways that will help them learn, yet that will not disrupt other students’ learning. While each student will be working closely with their team members, you are also expected to engage with your classmates in a respectful, kind, and helpful manner.
+
+In the class, we encourage asking questions, sharing ideas, and engaging in discussions related to the class topics. Sometimes discussions may steer away from the course content, and the course instructor will reserve the right to re-direct it back on track.
+
+Giving and receiving feedback is one of the core activities in this class. When giving and receiving feedback, it is important to keep in mind that we give feedback because we want all projects to succeed. Our feedback will highlight parts that work well but also point out aspects that can be improved. The feedback should not be taken personally or seen as an attack on students' knowledge or capabilities. Thus, we will learn a craft of constructive feedback and practice it in the class regularly.
 
 ### Assignment/Project/Lab Policy
 

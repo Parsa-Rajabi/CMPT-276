@@ -1,55 +1,21 @@
 # Course Schedule
 
-This the tentative schedule for the course which is subject to change without notice. Please check lecture slides for the most up-to-date schedule.
-
-Number of assignmnets, labs, and quizzes are subject to change. More details about project will be provided later in the term.
-
-<!-- | **Week #** |                **Topic**                |
-|:----------:|:---------------------------------------:|
-|      1     |             Intro / Syllabus            |
-|      2     |               Git / Github              |
-|      3     |                   SDLC                  |
-|      4     | Project Management + Quiz 1 [tentative] |
-|      5     |         Application Architecture        |
-|      6     |            Application Design           |
-|      7     |           Midterm [tentative]           |
-|      8     |   Continuous Integration + Deployment   |
-|      9     |         Project Presentation #1         |
-|     10     |        Code Testing + Frameworks        |
-|     11     | Code Documentation + Quiz 2 [tentative] |
-|     12     |       Guest Speaker(s) [tentative]      |
-|     13     |         Project Presentation #2         | -->
+This is the tentative schedule for the course which is subject to change without notice. Please check this page regularly for updates.
 
 
-| **Week #** | **Date** |       **Monday**        |           **Wednesday**           |
-| :--------: | :------: | :---------------------: | :-------------------------------: |
-|     1      |  Sept 4  |            -            |         Intro / Syllabus          |
-|     2      | Sept 11  |      Git / Github       |          Github Activity          |
-|     3      | Sept 18  |          SDLC           |               SDLC                |
-|     4      | Sept 25  |   Project Management    |        Project Management         |
-|     5      |  Oct 2   |    Holiday, No Class    |                 -                 |
-|     6      |  Oct 9   |            -            |                 -                 |
-|     7      |  Oct 16  |            -            |                 -                 |
-|     8      |  Oct 23  |   Application Design    |     Application Architecture      |
-|     9      |  Oct 30  |         Midterm         |          Github Features          |
-|     10     |  Nov 6   |          CI/CD          |           Code Testing            |
-|     11     |  Nov 13  |    Holiday, No Class    |               Quiz                |
-|     12     |  Nov 20  |    Guest Speaker(s)     | Testing Framework + Documentation |
-|     13     |  Nov 27  | Project Presentation #2 |      Project Presentation #2      |
-|     14     |  Dec 4   | Project Presentation #2 |                 -                 |
-
-<!-- | **Week #** |              **Topic**              | **Quiz** | **Lab** | **Assignment** |   **Project**    |
-| :--------: | :---------------------------------: | :------: | :-----: | :------------: | :--------------: |
-|     1      |          Intro / Syllabus           |          |         |                |                  |
-|     2      |            Git / Github             |          |         |                |                  |
-|     3      |                SDLC                 |          |  Lab 1  |       A1       |                  |
-|     4      |         Project Management          |  Quiz 1  |  Lab 2  |       A2       |                  |
-|     5      |      Application Architecture       |          |  Lab 3  |                | Project Proposal |
-|     6      |         Application Design          |          |  Lab 4  |                |                  |
-|     7      |         Midterm (tentative)         |          |         |                |                  |
-|     8      | Continuous Integration + Deployment |          |  Lab 5  |       A3       |                  |
-|     9      |       Project Presentation #1       |          |         |                |    Report #1     |
-|     10     |      Code Testing + Frameworks      |          |  Lab 6  |       A4       |                  |
-|     11     |         Code Documentation          |  Quiz 2  |  Lab 7  |                |                  |
-|     12     |    Guest Speaker(s) [tentative]     |          |  Lab 8  |                |                  |
-|     13     |       Project Presentation #2       |          |         |                |    Report #2     | -->
+| **Week #** | **Date** |                            **Topic**                            |
+| :--------: | :------: | :-------------------------------------------------------------: |
+|     1      |  Sept 6  |                        Syllabus / Intro                         |
+|     2      | Sept 10  |                Git / Github + ACM Code of Ethics                |
+|     3      | Sept 17  |                Software Development Life Cycles                 |
+|     4      | Sept 24  |                       Project Management                        |
+|     5      |  Oct 1   |                       Application Design                        |
+|     6      |  Oct 8   |                    Application Architecture                     |
+|     7      |  Oct 15  | *[Cancelled by SFU; No class](http://tiny.cc/oct-15-cancelled)* |
+|     8      |  Oct 22  |                     **Midterm (tentative)**                     |
+|     9      |  Oct 29  |                     Collaboration on Github                     |
+|     10     |  Nov 5   |                         CI/CD Pipelines                         |
+|     11     |  Nov 12  |                          Code Testing                           |
+|     12     |  Nov 19  |           Code Documentation + Intellectual Property            |
+|     13     |  Nov 26  |                     Technical Presentations                     |
+|     14     |  Dec 3   |                     Technical Presentations                     |
