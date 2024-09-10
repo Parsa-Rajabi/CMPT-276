@@ -1,5 +1,6 @@
 - [Syllabus](syllabus)
 - [Contact Parsa or TAs](teaching-team)
+- [Assignment & Labs](assignment-lab-details)
 - [Resources](resources)
 - [Feedback](feedback)
 <!-- - **LMS Links**
