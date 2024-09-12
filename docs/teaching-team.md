@@ -3,9 +3,9 @@
 
 |         **Name**          |     **Email** :fas fa-envelope fa-fw:      | **Slack** :fas fa-comment fa-fw: | **Office Hours**     :fas fa-house-medical: |
 | :-----------------------: | :----------------------------------------: | :------------------------------: | :-----------------------------------------: |
-| Parsa Rajabi (Instructor) |    parsa_r [at] `DELETEthisTEXT` sfu.ca    |             `@Parsa`             |                     TBA                     |
-|    Maryam Rezaie (TA)     | maryam_rezaie [at] `DELETEthisTEXT` sfu.ca |            `@Maryam`             |                     TBA                     |
-|     Rajat Biswas (TA)     | rajat_biswas [at] `DELETEthisTEXT` sfu.ca  |             `@Rajat`             |                     TBA                     |
+| Parsa Rajabi (Instructor) |    parsa_r [at] `DELETEthisTEXT` sfu.ca    |             `@Parsa`             |     Tuesdays; 10:20-11:20 in SYRE 5127      |
+|    Maryam Rezaie (TA)     | maryam_rezaie [at] `DELETEthisTEXT` sfu.ca |            `@Maryam`             |                     Fridays; 9-9:30 via [Zoom](https://sfu.zoom.us/j/82375103559?pwd=H3a0RFNsjlyAVY1ccZZurHHKSNgPcT.1)                     |
+|     Rajat Biswas (TA)     | rajat_biswas [at] `DELETEthisTEXT` sfu.ca  |             `@Rajat`             |                     Fridays; 8:30-9 via [Zoom](https://sfu.zoom.us/j/6788106634)                     |
 
 ## Slack
 
@@ -19,6 +19,6 @@ Students are expected to maintain a high level of professionalism in all course 
 
 Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
 
-> Repeated unprofessional behavior will result in grade deduction from your final grade, with **each violation resulting in a 1% deduction**. Students will be notified of possible deductions after the first offical warning.
+> Repeated unprofessional behavior will result in grade deduction from your final grade, with **each violation resulting in a 1% deduction**. Students will be notified of possible deductions after the first official warning.
 
 
