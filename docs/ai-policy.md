@@ -1,5 +1,9 @@
 # AI-usage Course Policy
 
+## Disclosure of AI Use
+
+- Link to the [AI Use Disclosure Form](https://bit.ly/CMPT-276-AI-F24)
+
 ## Policy on the Use of AI Content Generators for Coursework.
 
 As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CMPT 276 - Introduction to Software Engineering. Please note that this policy only applies to CMPT 276 D200 in Fall 2024.
