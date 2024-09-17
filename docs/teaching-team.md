@@ -1,11 +1,11 @@
 # Teaching Team
 
 
-|         **Name**          |     **Email** :fas fa-envelope fa-fw:      | **Slack** :fas fa-comment fa-fw: | **Office Hours**     :fas fa-house-medical: |
-| :-----------------------: | :----------------------------------------: | :------------------------------: | :-----------------------------------------: |
-| Parsa Rajabi (Instructor) |    parsa_r [at] `DELETEthisTEXT` sfu.ca    |             `@Parsa`             |     Tuesdays; 10:20-11:20 in SYRE 5127      |
-|    Maryam Rezaie (TA)     | maryam_rezaie [at] `DELETEthisTEXT` sfu.ca |            `@Maryam`             |                     Fridays; 9-9:30 via [Zoom](https://sfu.zoom.us/j/82375103559?pwd=H3a0RFNsjlyAVY1ccZZurHHKSNgPcT.1)                     |
-|     Rajat Biswas (TA)     | rajat_biswas [at] `DELETEthisTEXT` sfu.ca  |             `@Rajat`             |                     Fridays; 8:30-9 via [Zoom](https://sfu.zoom.us/j/6788106634)                     |
+|         **Name**          |     **Email** :fas fa-envelope fa-fw:      | **Office Hours**     :fas fa-house-medical: |                                    **Location**                                     |
+| :-----------------------: | :----------------------------------------: | :-----------------------------------------: | :---------------------------------------------------------------------------------: |
+| Parsa Rajabi (Instructor) |    parsa_r [at] `DELETEthisTEXT` sfu.ca    |            Tuesdays 10:20-11:20            |                                      SYRE 5127                                      |
+|    Maryam Rezaie (TA)     | maryam_rezaie [at] `DELETEthisTEXT` sfu.ca |     Wednesdays 3-4 <br> Fridays 9-9:30      | [Zoom Link](https://sfu.zoom.us/j/82375103559?pwd=H3a0RFNsjlyAVY1ccZZurHHKSNgPcT.1) |
+|     Rajat Biswas (TA)     | rajat_biswas [at] `DELETEthisTEXT` sfu.ca  |      Thursdays 2-3 <br> Fridays 8:30-9       |   [Zoom Link](https://sfu.zoom.us/j/83028342385?pwd=3Zv39Z1heCn9ddghGdpHqPTUoFsDdj.1)    |
 
 ## Slack
 
