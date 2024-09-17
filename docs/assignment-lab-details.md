@@ -73,7 +73,13 @@ Examples:
 
 ### Canvas
 
-All course content include assignments, labs etc. will need to be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/85687/assignments). Not submitting on Canvas will be considered as a missed assignment/lab. Follow the instructions below to understand how to use GitHub classroom.
+All course content include assignments, labs etc. will need to be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/85687/assignments). Not submitting on Canvas will be considered as a missed assignment/lab and the following penalties will be applied:
+
+- 1st instance penalty = -5%
+- 2nd instance penalty = -15%
+- 3rd instance penalty (onwards) = -25%
+
+Students who not submit on Canvas will be assigned a grade of 0 until they reach out to their TA with the correct submission, within 7 days of the deadline. No missed canvas submission will be accepted after 7 days of the deadline. This is not to be confused with the late submission policy, which is outlined in the course syllabus.
 
 ### Github Classroom
 
