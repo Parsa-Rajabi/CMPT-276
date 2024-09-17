@@ -12,7 +12,6 @@ This the tentative schedule for all course assignments and labs, which is subjec
 | :-----------: | :------: | :------------------------------------------------------------: |
 | A0 (Practice) |    -     | [Accept A0 on Github](https://classroom.github.com/a/XWNgOgqT) |
 |      A1       |          |                                                                |
-|               |          |                                                                |
 
 ## Labs
 
