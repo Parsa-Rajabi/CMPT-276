@@ -8,10 +8,24 @@ This the tentative schedule for all course assignments and labs, which is subjec
 
   ## Assignments
 
-|  Assignment   | Due Date |                         Link to Accept                         |
-| :-----------: | :------: | :------------------------------------------------------------: |
-| A0 (Practice) |    -     | [Accept A0 on Github](https://classroom.github.com/a/XWNgOgqT) |
-|      A1       |          |                                                                |
+|  Assignment   | Due Date |                                     Link to Accept                                     |
+| :-----------: | :------: | :------------------------------------------------------------------------------------: |
+| A0 (Practice) |    -     |             [Accept A0 on Github](https://classroom.github.com/a/XWNgOgqT)             |
+|  A1  (Group)  |  Oct 15  | [Accept A1 on Github, Join/create your group](https://classroom.github.com/a/CjD_QFUP) |
+
+
+### Accepting a Github Link as Group 
+
+- Joining a group assignment is slightly different than individual assignments. You must join or create a group before accepting the assignment. 
+- It is recommended for the group project manager to accept the link first, create the group and then the rest of the group members can join the group.
+  - Make sure to do this correctly, as you will not be able to change your group once you have accepted the assignment.
+  - **The group names should be identical to the group names in Canvas (including the number and name**)
+
+Here is an example of how to accept a group assignment. You notice group `G0` has already been created, so joining it is as simple as clicking the join button to the top right of the group name.
+
+![Group Assignment](images/Github-Group.png)
+
+
 
 ## Labs
 
@@ -19,6 +33,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 | :---: | :------: | :------------------------------------------------------------: |
 | Lab 1 | Sept 23  | [Accept L1 on Github](https://classroom.github.com/a/fV8Qm2Nv) |
 | Lab 2 |  Oct 1   | [Accept L2 on Github](https://classroom.github.com/a/-Ber8Osk) |
+| Lab 3 |  Oct 7   | [Accept L3 on Github](https://classroom.github.com/a/3S-wvDyf) |
 
 ### AI Usage Disclosure
 
@@ -33,7 +48,7 @@ Option A:
    - [Windows instructions on how to print/save PDF](https://www.consumerfinance.gov/consumer-tools/save-as-pdf-instructions/)
 3. Save your file as PDF as per file name format below
 4. Upload PDF to github
-5. Include link to PDF file on your README file using the following sytanx:
+5. Include link to PDF file on your README file using the following syntax:
 
 ```markdown
 [Link text](link to file)
@@ -47,7 +62,7 @@ Option B:
 1. You will be taken back to your responses and be prompted to save the file as PDF via the print panel
 2. Save your file as PDF as per file name format below
 3. Upload PDF to github
-5. Include link to PDF file on your README file using the following sytanx:
+5. Include link to PDF file on your README file using the following syntax:
    
 ```markdown
 [Link text](link to file)
@@ -61,13 +76,13 @@ Option B:
 
 Name the file in the following format: 
 
-- Assignmnet: `A#_AI_Declaration_FirstName_LastName_StudentID.pdf`
+- Assignment: `A#_AI_Declaration_FirstName_LastName_StudentID.pdf`
 - Lab: `L#_AI_Declaration_FirstName_LastName_StudentID.pdf`
 - Project: `P#_AI_Declaration_FirstName_LastName_StudentID.pdf`
 
 Examples:
 
-- Assignmnet 2: `A2_AI_Declaration_Parsa_Rajabi_301234567.pdf`
+- Assignment 2: `A2_AI_Declaration_Parsa_Rajabi_301234567.pdf`
 - Lab 4: `L4_AI_Declaration_Parsa_Rajabi_301234567.pdf`
 - Project Milestone 1: `P1_AI_Declaration_Parsa_Rajabi_301234567.pdf`
 
@@ -80,6 +95,10 @@ All course content include assignments, labs etc. will need to be submitted on C
 - 3rd instance penalty (onwards) = -25%
 
 Students who not submit on Canvas will be assigned a grade of 0 until they reach out to their TA with the correct submission, within 7 days of the deadline. No missed canvas submission will be accepted after 7 days of the deadline. This is not to be confused with the late submission policy, which is outlined in the course syllabus.
+
+### Late Submissions
+
+Refer to the [course syllabus for the late submission policy](#/syllabus.md/#late-deliverables).
 
 ### Github Classroom
 
