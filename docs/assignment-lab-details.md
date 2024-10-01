@@ -98,7 +98,7 @@ Students who not submit on Canvas will be assigned a grade of 0 until they reach
 
 ### Late Submissions
 
-Refer to the [course syllabus for the late submission policy](#/syllabus.md/#late-deliverables).
+Refer to the [course syllabus for the late submission policy](/syllabus.md?id=late-deliverables).
 
 ### Github Classroom
 
