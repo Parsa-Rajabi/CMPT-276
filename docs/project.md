@@ -75,8 +75,8 @@ While the core project requirements are essential, these projects are often well
 ## Milestone 0: Project Setup and Proposal
 
 **Deliverables:**
-- Project Repository ([Accept Github Classroom Link and join your group](https://classroom.github.com/)) 
-  - *Note: Similar to A1, group project managers should set up the repository and others join after*
+- Project Repository ([Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/sIB1nQeP)) 
+  - You're encouraged to refer to [this template](https://github.com/CMPT-276-FALL-2024/CMPT-276-Project-Template) as a starting point for your project repository
 - Proposal Report
 
 <details>
