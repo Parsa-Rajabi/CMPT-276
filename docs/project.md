@@ -44,6 +44,8 @@ When considering features, prioritize the user's perspective. A valuable feature
 
 ## Above and Beyond 🚀🪐
 
+<br>
+
 <details>
 <summary>Bonus Marks?</summary>
 Each semester, the teaching team selects a few standout projects that showcase exceptional effort, creativity, and innovation. In lieu of bonus marks, these projects are honored in the “Hall of Fame” and may have the opportunity to continue as research projects in future semester(s). Research projects usually lead to publications, presentations, and potential collaborations with industry partners.
