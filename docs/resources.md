@@ -74,6 +74,8 @@ This page contains a list of resources that you may find useful throughout the c
 
 ### Design Tools
 
+The following tools can be used to create wireframes and prototypes for your project.
+
 <details>
 <summary>Low-fidelity</summary>
 

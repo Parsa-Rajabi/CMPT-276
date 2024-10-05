@@ -73,7 +73,8 @@ While the core project requirements are essential, these projects are often well
 ## Milestone 0: Project Setup and Proposal
 
 **Deliverables:**
-- Project Repository ([Accept Github Classroom Link and join your group](https://classroom.github.com/)) -- Note: Similar to A1, group project managers should set up the repository and others join after
+- Project Repository ([Accept Github Classroom Link and join your group](https://classroom.github.com/)) 
+  - *Note: Similar to A1, group project managers should set up the repository and others join after*
 - Proposal Report
 
 <details>
@@ -168,6 +169,10 @@ While the core project requirements are essential, these projects are often well
 
 ## Milestone 1.5: Project Check-in
 
+**Deliverables:**
+- Project check-in report
+- Meeting with TA
+
 <details>
 <summary>Milestone 1.5 details (click to expand):</summary>
 
@@ -193,8 +198,6 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 </details>
 
 ## Milestone 2: Project Delivery
-
-<br>
 
 **Deliverables:**
 - Project Final Report
