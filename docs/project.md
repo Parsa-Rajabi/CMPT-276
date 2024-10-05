@@ -67,7 +67,7 @@ While the core project requirements are essential, these projects are often well
 <summary>Spring 2023</summary>
 
 - Fluentify - [Website Link](https://fluent-ify.netlify.app/)
-- GoodGame - [Website Link](https://andre-martin.github.io/) 
+- GoodGame - [Website Link](https://andre-martin.github.io/boardgame-list) 
 - EasyGrammar - [Video Demo](https://drive.google.com/file/d/1BGwYyWy6-Ay4LPMKNaLGZ9Xeqsm9he0E/view) 
 </details>
 
