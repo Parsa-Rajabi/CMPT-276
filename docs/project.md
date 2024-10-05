@@ -194,8 +194,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 |  Application Testing  | Automated tests should be set up and configured for API 1 features |
 
 
-> [!CAUTION]
-> All group members are required to attend this check-in. Any member who fails to attend will receive a 10% deduction from the overall project grade. No exceptions will be made.
+> **All group members are required to attend this check-in. Any member who fails to attend will receive a `10% deduction` from the overall project grade. No exceptions will be made.**
 
 </details>
 
