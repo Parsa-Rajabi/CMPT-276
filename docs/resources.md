@@ -14,6 +14,91 @@ This page contains a list of resources that you may find useful throughout the c
 
 ## Web Development
 
+### Languages and Frameworks
+
+*Select each item for the dropdown to open.*
+
+<details>
+<summary>HTML + CSS</summary>
+
+- Tailwind CSS
+- Ant Design
+- Material UI
+- Semantic UI
+- Bulma
+- Foundation
+- Pure.css
+- Skeleton
+- UIKit
+</details>
+
+<details>
+<summary>JavaScript</summary>
+
+- React.js
+- Vue.js
+- Angular.js
+- Node.js
+</details>
+
+<details>
+<summary>JavaScript Testing</summary>
+
+- Cypress
+- Jest
+- Mocha
+- Selenium
+- Puppeteer
+- Karma
+- Jasmine
+- Enzyme
+</details>
+
+<details>
+<summary>CI/CD Pipelines</summary>
+
+- Github Actions
+- CircleCI
+- TravisCI
+- Jenkins
+</details>
+  
+<details>
+<summary>Web Hosting</summary>
+
+- Netlify
+- Vercel
+- AWS amplify
+- Heroku (Education)
+</details>
+
+### Design Tools
+
+<details>
+<summary>Low-fidelity</summary>
+
+- Pen and paper
+- Whiteboard
+- Tablet and stylus
+
+</details>
+
+<details>
+<summary>Med/High-fidelity</summary>
+
+- Figma (recommended)
+- Balasmiq (recommended)
+- Adobe XD
+- Sketch
+- InVision
+- Marvel
+- Axure RP
+- Webflow
+- Moqups
+- Lucidchart
+
+</details>
+
 ### Online Tutorials
 
 - [W3Schools](https://www.w3schools.com/)
