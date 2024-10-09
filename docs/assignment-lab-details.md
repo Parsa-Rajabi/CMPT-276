@@ -34,6 +34,7 @@ Here is an example of how to accept a group assignment. You notice group `G0` ha
 | Lab 1 | Sept 23  | [Accept L1 on Github](https://classroom.github.com/a/fV8Qm2Nv) |
 | Lab 2 |  Oct 1   | [Accept L2 on Github](https://classroom.github.com/a/-Ber8Osk) |
 | Lab 3 |  Oct 7   | [Accept L3 on Github](https://classroom.github.com/a/3S-wvDyf) |
+| Lab 4 |  Oct 29  | [Accept L4 on Github](https://classroom.github.com/a/3_xGXKts) |
 
 ### AI Usage Disclosure
 

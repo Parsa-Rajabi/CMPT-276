@@ -61,6 +61,7 @@ This page contains a list of resources that you may find useful throughout the c
 - CircleCI
 - TravisCI
 - Jenkins
+
 </details>
   
 <details>
@@ -70,6 +71,7 @@ This page contains a list of resources that you may find useful throughout the c
 - Vercel
 - AWS amplify
 - Heroku (Education)
+
 </details>
 
 ### Design Tools
