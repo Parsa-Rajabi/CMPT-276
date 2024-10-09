@@ -125,7 +125,7 @@ Here are some instructions on how to start working on assignments/labs that are 
 
 1. Add file: `git add filename.format`
     - e.g. `git add example.txt` (to add a text file named example)
-    1b. You can commit all files in your directory by using either:
+  - 1b. You can commit all files in your directory by using either:
      - `git add .`
      - `git add -A`
 2. Commit changes with a message: `git commit -m "type commit message here"` (make sure the commit message is meaningful)
