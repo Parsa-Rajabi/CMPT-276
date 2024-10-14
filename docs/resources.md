@@ -1,6 +1,6 @@
 # Resources
 
-This page contains a list of resources that you may find useful throughout the course. If you have any suggestions for resources to add to this page, please let others know via Slack.
+This page contains a list of resources that you may find useful throughout the course. If you have any suggestions for resources to add to this page, please submit a pull request.
 
 ## Git/Github
 
@@ -13,6 +13,22 @@ This page contains a list of resources that you may find useful throughout the c
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Web Development
+
+### HTML + CSS Course Notes
+
+| **Wk#** |                  **Topic**                   |
+| :-----: | :------------------------------------------: |
+|    1    |     [Intro to WWW](web-dev/week-2-1.md)      |
+|    2    |     [Intro to HTML](web-dev/week-2-2.md)     |
+|    3    |      [HTML Basics 1](web-dev/week-4.md)      |
+|    4    |     [HTML Basics 2](web-dev/week-5-1.md)     |
+|    6    |     [CSS Basics 1](web-dev/week-5-2.md)      |
+|    5    |      [CSS Basics 2](web-dev/week-7.md)       |
+|    7    |     [CSS Page Layout](web-dev/week-8.md)     |
+|    8    | [CSS Responsive Layouts](web-dev/week-11.md) |
+|    9    |     [HTML Tables](web-dev/week-12-1.md)      |
+|   10    |      [HTML Forms](web-dev/week-12-2.md)      |
+|   11    |   [Intro to JS + DOM](web-dev/week-13.md)    |
 
 ### Languages and Frameworks
 
