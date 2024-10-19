@@ -1,5 +1,7 @@
 # Midterm
 
+<br>
+
 ## Logistics
 - 📅 Date: Tuesday, Oct 22
 - 📍 Where: SYRE 2002 (Note: this is a different room than our usual class)
