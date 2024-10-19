@@ -6,6 +6,9 @@
 - 📅 Date: Tuesday, Oct 22
 - 📍 Where: SYRE 2002 (Note: this is a different room than our usual class)
 - 🕐 When: 8:30-10:20am 
+  - Arrive early and account for potential delays
+  - Doors will open at 8:15am
+  - If you come in late, you will not be given extra time
 - 📚 All in-class lectures + activities, assigned readings, take-home assessments (labs, assignments, project): Weeks 1 through week 7 (inclusive)
 
 ## What to bring
