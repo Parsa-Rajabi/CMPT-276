@@ -2,7 +2,7 @@
 - [AI Policy](ai-policy)
 - [Contact Parsa or TAs](teaching-team)
 - [Project Details](project)
-- [Midterm Details](midterm)
+- [Final Details](final)
 - [Assignment & Labs](assignment-lab-details)
 - [Resources](resources)
 - [Feedback](feedback)
