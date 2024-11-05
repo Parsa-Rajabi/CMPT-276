@@ -12,7 +12,7 @@ This the tentative schedule for all course assignments and labs, which is subjec
 | :-----------: | :------: | :------------------------------------------------------------------------------------: |
 | A0 (Practice) |    -     |             [Accept A0 on Github](https://classroom.github.com/a/XWNgOgqT)             |
 |  A1  (Group)  |  Oct 15  | [Accept A1 on Github, Join/create your group](https://classroom.github.com/a/CjD_QFUP) |
-|  A2 (Group)   |  Nov 25  | [Accept A2 Github, Join your existing group](https://classroom.github.com/a/UMt-FpNo)  |
+|  A2 (Group)   |  Nov 25  | [Accept A2 Github, Join your existing group](https://classroom.github.com/a/VzYCgQzs)  |
 
 
 ### Accepting a Github Link as Group 
