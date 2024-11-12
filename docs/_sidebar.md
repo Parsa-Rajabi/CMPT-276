@@ -4,6 +4,7 @@
 - [Project Details](project)
 - [Final Details](final)
 - [Assignment & Labs](assignment-lab-details)
+- [Peer Testing](peer-testing)
 - [Resources](resources)
 - [Feedback](feedback)
 <!-- - **LMS Links**
