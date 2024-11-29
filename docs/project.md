@@ -4,9 +4,11 @@ The goal of this project is to create a web application that demonstrates practi
 
 ## Changelog
 
-| Date  |            Changes            |
-| :---: | :---------------------------: |
-| Oct 5 | Project details released (v1) |
+|  Date  |            Changes            |
+| :----: | :---------------------------: |
+| Oct 5  | Project details released (v1) |
+| Nov 29 |  Updatees to M2 deliverables  |
+
 
 ## Structure
 
