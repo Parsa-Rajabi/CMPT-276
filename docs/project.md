@@ -22,13 +22,13 @@ This project is broken down into multiple milestones (click on each to learn mor
 
 The following schedule is tentative and may change based on the progress of the class. Changes will be communicated in class and via the page changelog.
 
-| Project Element |         Deliverable          |       Due Dates (11:59pm PST)        |
-| :-------------: | :--------------------------: | :----------------------------------: |
-| Groups Assigned |        Group Contract        |            Tuesday, Oct 1            |
-|  M0 - Proposal  |            Report            |            Friday, Oct 18            |
-|  M1 - Planning  |        Report + Video        |            Friday, Nov 1             |
-| M1.5 - Check-in |      Report + Mtg w/ TA      |          Week of Nov 11-15           |
-|  M2 - Delivery  | Report + Presentation + Code | Week of Nov 26 / Dec 3 (Details TBA) |
+| Project Element |         Deliverable          | Due Dates (11:59pm PST) |
+| :-------------: | :--------------------------: | :---------------------: |
+| Groups Assigned |        Group Contract        |     Tuesday, Oct 1      |
+|  M0 - Proposal  |            Report            |     Friday, Oct 18      |
+|  M1 - Planning  |        Report + Video        |      Friday, Nov 1      |
+| M1.5 - Check-in |      Report + Mtg w/ TA      |    Week of Nov 11-15    |
+|  M2 - Delivery  | Report + Presentation + Code |      Friday, Dec 6      |
 
 
 ## Details
@@ -205,7 +205,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 - Project source code
 - Project website (deployed)
 - Project demo video
-- Project Presentation
+- Project Video Presentation
 
 <details>
 <summary>Milestone 2 details (click to expand):</summary>
@@ -230,11 +230,17 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 - List of known bugs and issues with the project and their severity (table format)
   - Any bug identified and missing from this list will impact the project grade
   - It is recommended to use a bug tracking tool (e.g., Github Issues) to track these bugs
-  - Bug reports should include a description of the bug, steps to reproduce, and severity level
+  - Bug reports should include a description of the bug, steps to reproduce, and severity level and link to Github Issue
 - Description of the project's future work and potential improvements
   - This should include any features that were not implemented and how they could be implemented in the future
 - Lessons learned and project takeaways
   - Include challenges faced during the project and how they were overcome 
+- Appendix with any additional information that was not included in the main report
+  - Provide a list of all group members and their detailed contributions to the project
+  - Peer testing feedback form (survey questions) 
+  - All the peer testing feedback received from classmates (survey results)
+  - Any additional diagrams, charts, or tables that were not included in the main report
+
 
 **Source Code:**
 
@@ -243,6 +249,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
   - Unit tests for each feature (automated)
   - Integration tests for each feature (automated)
   - Real user testing for each feature (manual)
+    - This should be drawn from your classmates (peer testing session)
 - Application interface should follow Jakob Nielsen's 10 Usability Heuristics
   - [Link to Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics//)
   - [Link to Video Playlist on Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)
@@ -256,13 +263,17 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 
 **Presentation:**
 
-- As part of this 8 minute presentation (tentatively scheduled for in-class), your group will present the following:
+- As part of this 8-10 minute **video** presentation, your group will present the following:
   - An overview of the project and the problem it aims to solve
   - The chosen APIs and the features you implemented
     - Use personas and user stories to explain how these features benefit the user
   - Overview of the CI/CD pipeline and how it was used in the project
   - Project takeaways and lessons learned
   - Project demo video (1-2 minutes)
+    - The timing of this video does count towards the 8-10 minute limit (e.g. going above 10 minutes will result in a penalty)
+    - This video should be a demonstration of the application's features on a live website (refer to Hall of Fame projects for examples)
+    - It is recommended to have a voiceover explaining the features being demonstrated but not required
+    - For future job applications, this video can be used as a portfolio piece (make it professional) 
   - Future work and potential improvements
   
  
