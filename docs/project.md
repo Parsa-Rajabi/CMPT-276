@@ -6,18 +6,24 @@ The goal of this project is to create a web application that demonstrates practi
 
 |  Date  |            Changes            |
 | :----: | :---------------------------: |
-| Oct 5  | Project details released (v1) |
-| Nov 29 |  Updatees to M2 deliverables  |
+| Jan 6  | Project details released (v1) |
 
 
 ## Structure
 
 This project is broken down into multiple milestones (click on each to learn more):
 
-- [Milestone 0: Project Setup and Proposal](#milestone-0-project-setup-and-proposal)
-- [Milestone 1: Project Planning](#milestone-1-project-planning)
-- [Milestone 1.5: Project Check-in](#milestone-15-project-check-in)
-- [Milestone 2: Project Delivery](#milestone-2-project-delivery)
+- [Project](#project)
+  - [Changelog](#changelog)
+  - [Structure](#structure)
+    - [Schedule](#schedule)
+  - [Details](#details)
+  - [Above and Beyond 🚀🪐](#above-and-beyond-)
+    - [🌟 Hall of Fame 🌟](#-hall-of-fame-)
+  - [Milestone 0: Project Setup and Proposal](#milestone-0-project-setup-and-proposal)
+  - [Milestone 1: Project Planning](#milestone-1-project-planning)
+  - [Milestone 1.5: Project Check-in](#milestone-15-project-check-in)
+  - [Milestone 2: Project Delivery](#milestone-2-project-delivery)
 
 
 ### Schedule 
@@ -57,6 +63,12 @@ While the core project requirements are essential, these projects are often well
 
 
 ### 🌟 Hall of Fame 🌟
+<details>
+<summary>Fall 2024</summary>
+
+- PLACEHOLDER - [Video Demo]()
+- PLACEHOLDER - [Website Link]() 
+</details>
 
 <details>
 <summary>Fall 2023</summary>
@@ -143,10 +155,10 @@ While the core project requirements are essential, these projects are often well
   - This should provide a timeline for the project, including when each feature will be developed and tested
 - A risk assessment of potential issues that may arise during the project and how you plan on mitigating them
   - Include at least 5 low-risk, 3 medium-risk, and 2 high-risk issues (10 total) with mitigation strategies for each
-- Use Data Flow Diagrams (DFDs) to outline how data flows within the application
+- Use Data Flow Diagrams (level 0 and level 1) to outline how data flows within the application
   - Between the APIs and your application
-- MVC model for the application
-  - This should include a high-level overview of how the application will be structured
+- MVC model diagram for the application
+  - This should include a high-level overview of how the application will be structured and a description of each component
 
 **Video Presentation:**
 
@@ -265,7 +277,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 
 **Presentation:**
 
-- As part of this 8-10 minute **video** presentation, your group will present the following:
+- As part of this 8-10 minute **video** presentation (with subtitles), your group will present the following information to the class and teaching team:
   - An overview of the project and the problem it aims to solve
   - The chosen APIs and the features you implemented
     - Use personas and user stories to explain how these features benefit the user
