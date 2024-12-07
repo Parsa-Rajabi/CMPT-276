@@ -4,10 +4,10 @@
 
 ## Logistics
 - 📅 Date: Monday, December 16
-- 📍 Where: SYRC 2600 (Note: this is a different **building** than our usual)
+- 📍 Where: SYRC 2600 - also known as Prospera Credit Union Theatre (Note: this is a different **building** than our usual)
 - 🕐 When: 8:30-11:30am (3 hours)
   - Arrive early and account for potential delays
-  - Doors will open at 8:15am
+  - Doors will open at 8:15am (please do not enter the room until told to do so)
   - If you come in late, you will not be given extra time
 - 📚 (Cumulative) All in-class lectures + activities, assigned readings, take-home assessments (labs, assignments, project) throughout the course
 
@@ -34,7 +34,6 @@ The exam will include the following types of questions:
 - The exam is closed book, with the exception of one letter-sized, **two-sided** cheatsheet (can be handwritten or typed)
   - The cheatsheet must be submitted with the exam. Make sure to write your full name and student number on it.
 - You should take the time to review all course materials in detail (including labs, assignments, assigned readings/videos/etc.).
-
 
 ## Topics
 
@@ -75,8 +74,8 @@ The following is a list of the major topics covered so far this term. It is by n
 - Work Breakdown Structure (WBS) 
 
 ### Application Design
-- Usability principles 
-- Heuristic evaluation 
+- Usability principles
+- Heuristic evaluation
 - Design techniques and processes
 - Gestalt principles
 - Dark patterns
@@ -103,3 +102,21 @@ The following is a list of the major topics covered so far this term. It is by n
 - Github Actions
   - `.yml` file
   - Workflow
+
+### Application Testing
+- Importance of testing
+- Verification vs. Validation
+- Different testing methodologies
+  - Definition
+  - Use cases
+  - Testing levels 
+- Testing Frameworks
+  - TDD
+  - BDD
+  - ATDD
+
+### Documentation
+- Purpose of documentation
+- Types of documentation
+- Depth of documentation
+  - Seven C's
