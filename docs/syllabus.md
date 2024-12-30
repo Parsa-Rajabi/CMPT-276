@@ -3,14 +3,14 @@
 # Course Syllabus
 
 Below is the official SFU-mandated Course Syllabus for CMPT 276.
-Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/85687).
+Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/88205).
 
 **Department of Computing Science**
 
-**Fall 2024 - CMPT 276 (D200)** || **Introduction to Software Engineering (3)**
+**Spring 2025 - CMPT 276 (D200)** || **Introduction to Software Engineering (3)**
 
-- Class Number: 6328
-- Delivery Method: In-person in SYRE 2016 (Surrey)
+- Class Number: 5403
+- Delivery Method: In-person in SYRE 2016 (Surrey) + Flipped Classroom (Asynchronous)
 
 ---
 ## Course Instructor
@@ -24,10 +24,20 @@ Please refer to [teaching team](teaching-team.md) page for how to get in touch w
 ---
 ## Course Format 
 
-- **Tuesdays 8:30-10:20 AM - SYRE 2016 (Surrey)**
-- **Fridays 8:30-9:20 AM - Asynchronous (No live session)**
+- **Tuesdays 1:30-2:20 PM - SYRE 2016 (Surrey)**
+- **Thursdays 12:30-2:20 PM - Asynchronous (No live session)**
 
-Lectures will be held **in-person** on Tuesdays from 8:30-10:20am in SYRE 2016. Friday session will be dedicated to asynchronous activities such as assigned readings, videos, labs, assignments, and project work (**there will be no live lectures**). Students are expected to attend all live lectures on Tuesdays and participate in all course activities to succeed in the course.
+Lectures will be held **in-person** on Tuesdays from 1:30-2:20pm in SYRE 2016. Thursday session will be dedicated to asynchronous activities such as lecture recordings, assigned readings, videos, labs, and project work (**there will be no live lectures**). Students are expected to attend all live lectures on Tuesdays and participate in all course activities to succeed in the course.
+
+### Flipped Classroom
+
+This course will be taught using a pedagogical technique known as the [Flipped classroom](https://bokcenter.harvard.edu/flipped-classrooms). This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped classroom, you will come to class having already completed several pre-assigned material (and videos) where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
+
+Flipped classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But in our class, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding and communicating solutions supported by evidence. Through this process, you will better develop your confidence, creativity, and critical-thinking skills (i.e. Computational Thinking), preparing you to become a successful problem-solver in the real world.
+
+In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned modules and videos complete. This emphasis on assigned lecture recordings and labs is the reason why the course is structured as it is. If you do not complete the modules, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
+
+I have designed this course so that you will be spending approximately 8 to 10 hours per week on all activities relating to this course (i.e., labs, projects, attending class, etc.). If you find that you are spending significantly more time than this, please let me know. I am always happy to help you manage your time more effectively.
 
 ---
 
@@ -69,13 +79,13 @@ The topics for this course are:
 ---
 ## Course Evaluation
 
-|  **Item**   | **Weight** |
-| :---------: | :--------: |
-|    Labs     |    10%     |
-| Assignments |    10%     |
-|   Midterm   |    20%     |
-|   Project   |    30%     |
-| Final Exam  |    30%     |
+|   **Item**    | **Weight** |
+| :-----------: | :--------: |
+|     Labs      |    10%     |
+|    Midterm    |    25%     |
+| Mini-project  |     5%     |
+| Final Project |    30%     |
+|  Final Exam   |    30%     |
 
 *Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.*
 
@@ -85,17 +95,17 @@ The topics for this course are:
 
 - Students must attain the following in order to obtain a clear pass (C- or better) in the course:
   - A passing grade (>50%) on the weighted average of the exams (midterm and final)
-  - A passing grade (>50%) on the course project 
+  - A passing grade (>50%) on the weighted average of the project (mini and final)
 
 ## Importance of Group Work and Participation Policy
 
 Group work is a vital component of this course, reflecting the collaborative nature of real-world projects. Working effectively in a team is essential for your professional development. It’s important to approach group tasks with respect for each other’s ideas and perspectives, and to ensure that everyone contributes equitably.
 
-Your team's performance in the course project plays a large part in your individual mark. In addition, in your individual mark the peer component relates to your contributions and participation in your team. 
+Your team's performance in the course project plays a large part in your individual mark. This grade is calculated based on peer evaluations received from your team members, as well as the quality of your contributions to the project. Completing detailed and thoughtful peer evaluations also contributes to your grade.
 
 To maintain fairness and academic integrity, all group members are expected to contribute equally to the project. Here’s how we handle group participation:
 
-1.	**Peer Resolution**: When non-participation issues arise, the first step is for group members to address and attempt to resolve them internally. It’s important to document these efforts—such as meeting notes, emails, or messages on platforms like Slack or Discord—in case further action is required.
+1.	**Peer Resolution**: When non-participation issues arise, the first step is for group members to address and attempt to resolve them internally based on the group's agreed-upon terms in the group contract. This includes documenting these efforts—such as meeting notes, emails, or messages on platforms like Slack or Discord—in case further action is required.
 2.	**Reporting Non-Participation**: If internal resolution efforts do not succeed, the concerned student(s) should schedule a meeting with their TA. However, it’s important to note that without sufficient evidence of attempts at peer resolution, the TA will not proceed with scheduling the meeting. During the meeting, if scheduled, students should present the documented evidence and discuss possible next steps with the TA.
 3.	**TA Intervention**: Following the consultation, the TA may involve other teaching team members to ensure that the workload is fairly distributed and completed by all group members. If additional actions are needed, the teaching team will directly engage with the specific group or individual members to determine the best course of action.
 
@@ -106,7 +116,7 @@ Non-contribution or “free riding” is not acceptable in this course. Every st
 ---
 ### Late Deliverables 
 
-All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. Course elements such as assignments and labs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
+All course items (e.g. labs, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. Labs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned. 
 
 Exams (including the midterm and final) and course project are fixed and cannot be deferred. If you miss an exam, you will receive a score of zero (no exceptions). Project submissions must be made on time, and late submissions will not be accepted.
 
@@ -115,6 +125,16 @@ Make-up assessments (including assignments, project, exams) will not be given. S
 While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
 In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
+
+### Missed Deliverables
+
+All course content must be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/88205/assignments). Not submitting on Canvas will be considered as a missed submission and the following penalties will be applied:
+
+- 1st instance penalty = -5%
+- 2nd instance penalty = -15%
+- 3rd instance penalty (and onwards) = -25%
+
+Students who do not submit on Canvas will be assigned a grade of 0 until they reach out to their TA with the correct submission, within 7 calendar days of the deadline. No missed canvas submission will be accepted after 7 calendar days of the deadline. This is not to be confused with the late submission policy, which is outlined above.
 
 ---
 
@@ -127,10 +147,10 @@ In the class, we encourage asking questions, sharing ideas, and engaging in disc
 Giving and receiving feedback is one of the core activities in this class. When giving and receiving feedback, it is important to keep in mind that we give feedback because we want all projects to succeed. Our feedback will highlight parts that work well but also point out aspects that can be improved. The feedback should not be taken personally or seen as an attack on students' knowledge or capabilities. Thus, we will learn a craft of constructive feedback and practice it in the class regularly.
 
 ---
-### Assignment/Project/Lab Policy
+### Project/Lab Policy
 
-- You may not send the instructor or the TAs draft assignments/project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
-- Assignments/labs/projects may be shared/shown in class and online (with no student name/ID)
+- You may not send the instructor or the TAs draft project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
+- labs/projects may be shared/shown in class and online (with no student name/ID). Students will be contacted ahead 
 ---
 ### Remarking Policy
 
