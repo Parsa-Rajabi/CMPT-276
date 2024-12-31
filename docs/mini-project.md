@@ -3,8 +3,7 @@
 The goal of this mini-project is to provide you with an opportunity to develop a website based on a similar technology stack that you will be using for your final project. To expand on your github skills and knowledge, you will also be deploying the website through Github Pages.
 
 ## Instructions
-<!-- TODO: Update Link -->
-0. Accept the mini-project via [Github Classroom]()
+0. Accept the mini-project via [Github Classroom](https://classroom.github.com/a/vSmNbncv)
 1. Watch the following video to learn more about Github Pages and deploying your website
    - [Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k?si=oH0L3BZo8h9x1Yby)
 2. Come up with a simple website idea
@@ -43,6 +42,12 @@ Your personal website could include some of the following elements (these are ju
 - Link to resume/CV
 - Any other information you'd like to share
 
+## Not sure where to start?
+
+In case you're not sure where to start, I recommend checking out [Scrimba's Frontend Developer Career Path](https://scrimba.com/the-frontend-developer-career-path-c0j) module that wll guide you on web dev basics such as HTML, CSS and Javascript. While most of the content is locked for "subscribers", as a Github student developer, [Scrimba offers a free subscription for 1 month](https://scrimba.helpscoutdocs.com/article/19-do-you-offer-student-discounts). 
+
+You are not expected to complete the module as part of this mini-project, but it could be a great resource to get you started on web development.
+
 ## Website Rubric
 
 - `[17 marks total]` Website Elements (refer to below for more details)
@@ -78,7 +83,7 @@ I encourage you to use this opportunity to modify existing templates, frameworks
 
 ### Github Items 
 
-- `[10 marks (1 mark each)]` Write, complete and merge at least 10 github issues using branches and pull requestes. These issues must have:
+- `[10 marks (1 mark each)]` Write, complete and merge at least 10 github issues using branches and pull requests. These issues must have:
    - Description of the issue, including acceptance criteria or definition of what "done" means
    - Assignees (you can assign yourself)
    - Labels (Create at least 3 new labels for your repo)
