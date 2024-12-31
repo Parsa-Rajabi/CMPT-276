@@ -6,7 +6,7 @@
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
-As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CMPT 276 - Introduction to Software Engineering. Please note that this policy only applies to CMPT 276 D200 in Fall 2024.
+As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CMPT 276 - Introduction to Software Engineering. Please note that this policy only applies to CMPT 276 D200 in Spring 2025.
 
 In a nutshell, the use of AI tools is permitted for all course content such assignments, labs, project. Using tools such as ChatGPT will not be allowed during in-person midterm and final exams. As part of the course policy, students are required to disclose any use of AI tools for each submission. Failure to follow this policy will be considered a violation of the course/university's academic policy.
 
@@ -62,4 +62,4 @@ Questions about this policy can be directed to the instructor via email with the
 
 ### Acknowledgements
 
-This policy was originally developed by [Dongwook Yoon](https://dwyoon.com/) at UBC and refined through the feedback of students from multiple courses at UBC and SFU. 
+This policy was originally developed by [Dongwook Yoon](https://dwyoon.com/) at UBC and refined through the feedback of students from multiple courses at UBC, SFU and Northeastern University. 
