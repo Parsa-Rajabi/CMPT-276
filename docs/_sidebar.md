@@ -1,6 +1,6 @@
 - [Syllabus](syllabus)
 - [AI Policy](ai-policy)
-- [Contact Parsa or TAs](teaching-team)
+- [Contact Us](teaching-team)
 - [Mini-Project Details](mini-project)
 - [Final Project Details](project)
 - [Labs](labs)
