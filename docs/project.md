@@ -107,8 +107,8 @@ Here is an example of how to accept a group project. You notice group `G0` has a
 
 
 **Deliverables:**
-- Project Repository ([Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/h16auAmt)) 
-  - You're encouraged to refer to [this template](https://github.com/CMPT-276-SPRING-2025/CMPT-276-Project-Template) as a starting point for your project repository
+- Project Repository ([Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/-1iSlB_x)) 
+  - You're encouraged to refer to [this template](https://github.com/CMPT-276-SUMMER-2025/CMPT-276-Project-Template) as a starting point for your project repository
 - Proposal Report
 
 <details>
