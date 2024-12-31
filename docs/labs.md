@@ -21,11 +21,11 @@ Here is an example of how to accept a group assignment. You notice group `G0` ha
 
 | Labs  | Due Date |                              Link                              |
 | :---: | :------: | :------------------------------------------------------------: |
-| Lab 1 |  Jan 17  | [Accept L1 on Github](https://classroom.github.com/a/fV8Qm2Nv) |
-| Lab 2 |  Jan 27  | [Accept L2 on Github](https://classroom.github.com/a/-Ber8Osk) |
-| Lab 3 |  Feb 3   | [Accept L3 on Github](https://classroom.github.com/a/3S-wvDyf) |
-| Lab 4 | March 10 | [Accept L4 on Github](https://classroom.github.com/a/3_xGXKts) |
-| Lab 5 | March 24 | [Accept L5 on Github](https://classroom.github.com/a/hAWjgtUm) |
+| Lab 1 |  Jan 17  | [Accept L1 on Github](https://classroom.github.com/a/CyJKJYyB) |
+| Lab 2 |  Jan 27  | [Accept L2 on Github](https://classroom.github.com/a/uywPcX2P) |
+| Lab 3 |  Feb 3   | [Accept L3 on Github](https://classroom.github.com/a/LPN1rLHE) |
+| Lab 4 | March 10 | [Accept L4 on Github](https://classroom.github.com/a/tvMN14lL) |
+| Lab 5 | March 24 | [Accept L5 on Github](https://classroom.github.com/a/u8Bu8q8T) |
 
 ### AI Usage Disclosure
 
