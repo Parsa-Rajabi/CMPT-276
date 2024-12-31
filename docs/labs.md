@@ -18,14 +18,14 @@ Here is an example of how to accept a group assignment. You notice group `G0` ha
 ![Group Assignment](images/Github-Group.png) -->
 
 ## Labs
-
+<!-- Updated on Jan 1, 2025 for Summer 2025 -->
 | Labs  | Due Date |                              Link                              |
 | :---: | :------: | :------------------------------------------------------------: |
-| Lab 1 |  Jan 17  | [Accept L1 on Github](https://classroom.github.com/a/CyJKJYyB) |
-| Lab 2 |  Jan 27  | [Accept L2 on Github](https://classroom.github.com/a/uywPcX2P) |
-| Lab 3 |  Feb 3   | [Accept L3 on Github](https://classroom.github.com/a/LPN1rLHE) |
-| Lab 4 | March 10 | [Accept L4 on Github](https://classroom.github.com/a/tvMN14lL) |
-| Lab 5 | March 24 | [Accept L5 on Github](https://classroom.github.com/a/u8Bu8q8T) |
+| Lab 1 |          | [Accept L1 on Github](https://classroom.github.com/a/YiysRgeQ) |
+| Lab 2 |          | [Accept L2 on Github](https://classroom.github.com/a/EFazkwSK) |
+| Lab 3 |          | [Accept L3 on Github](https://classroom.github.com/a/12jxi3mM) |
+| Lab 4 |          | [Accept L4 on Github](https://classroom.github.com/a/diab_lxp) |
+| Lab 5 |          | [Accept L5 on Github](https://classroom.github.com/a/7UVNZgBt) |
 
 ### AI Usage Disclosure
 
