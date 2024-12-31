@@ -87,6 +87,8 @@ The topics for this course are:
 | Final Project |    30%     |
 |  Final Exam   |    30%     |
 
+The maximum score for each course component is 100%. The final grade will be calculated based on the weighted average of the components.
+
 *Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.*
 
 - [Professionalism](/teaching-team?id=professionalism) is expected at all times. This includes respectful communication with your peers and instructors, as well as timely responses to teaching team emails (e.g. within 2 business days) and participation in group work. Students who do not meet the standards of professionalism will be subject to penalties (e.g. final grade deductions).
