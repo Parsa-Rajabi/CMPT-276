@@ -21,6 +21,8 @@ This project is broken down into multiple milestones (click on each to learn mor
   - [Above and Beyond 🚀🪐](#above-and-beyond-)
     - [🌟 Hall of Fame 🌟](#-hall-of-fame-)
   - [Milestone 0: Project Setup and Proposal](#milestone-0-project-setup-and-proposal)
+    - [Accepting a Github Link as Group](#accepting-a-github-link-as-group)
+    - [Repository Visibility](#repository-visibility)
   - [Milestone 1: Project Planning](#milestone-1-project-planning)
   - [Milestone 1.5: Project Check-in](#milestone-15-project-check-in)
   - [Milestone 2: Project Delivery](#milestone-2-project-delivery)
@@ -32,11 +34,11 @@ The following schedule is tentative and may change based on the progress of the 
 
 | Project Element |         Deliverable          | Due Dates (11:59pm PST) |
 | :-------------: | :--------------------------: | :---------------------: |
-| Groups Assigned |        Group Contract        |     Tuesday, Oct 1      |
-|  M0 - Proposal  |            Report            |     Friday, Oct 18      |
-|  M1 - Planning  |        Report + Video        |      Friday, Nov 1      |
-| M1.5 - Check-in |      Report + Mtg w/ TA      |    Week of Nov 11-15    |
-|  M2 - Delivery  | Report + Presentation + Code |      Friday, Dec 6      |
+| Groups Assigned |        Group Contract        |     Monday, Jan 13      |
+|  M0 - Proposal  |            Report            |      Friday, Feb 7      |
+|  M1 - Planning  |        Report + Video        |      Friday, Mar 7      |
+| M1.5 - Check-in |      Report + Mtg w/ TA      |    Week of Mar 17-21    |
+|  M2 - Delivery  | Report + Presentation + Code |      Tuesday, Apr 8      |
 
 
 ## Details
@@ -66,8 +68,8 @@ While the core project requirements are essential, these projects are often well
 <details>
 <summary>Fall 2024</summary>
 
-- PLACEHOLDER - [Video Demo]()
-- PLACEHOLDER - [Website Link]() 
+- WanderWise - [Video Presentation](https://youtu.be/WI8YdPw-tSo?si=bdsa13SOyyLZpcX-)
+- MindstreamAI - [Video Presentation](https://www.youtube.com/watch?v=8oSEa6JYfmg&ab_channel=raghavahuja), [Website Link](https://mindstreamai.onrender.com/) 
 </details>
 
 <details>
@@ -88,8 +90,24 @@ While the core project requirements are essential, these projects are often well
 
 ## Milestone 0: Project Setup and Proposal
 
+### Accepting a Github Link as Group 
+
+- Joining a group repository is slightly different than individual lab/repo. You must join or create a group before accepting the project. 
+- It is recommended for the group project manager to accept the link first, create the group and then the rest of the group members can join the group.
+  - Make sure to do this correctly, as you will not be able to change your group once you have accepted the project.
+  - **The group names should be identical to the group names in Canvas (including the number and name**)
+
+Here is an example of how to accept a group project. You notice group `G0` has already been created, so joining it is as simple as clicking the join button to the top right of the group name.
+
+![Group Project](images/Github-Group.png)
+
+### Repository Visibility
+
+- By default, all project repositories will be set as `private`, however, should you wish to make your repository `public`, you may submit a request to your TA.
+
+
 **Deliverables:**
-- Project Repository ([Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/sIB1nQeP)) 
+- Project Repository ([Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/)) 
   - You're encouraged to refer to [this template](https://github.com/CMPT-276-FALL-2024/CMPT-276-Project-Template) as a starting point for your project repository
 - Proposal Report
 
@@ -147,39 +165,46 @@ While the core project requirements are essential, these projects are often well
   - The prototype should be interactive and demonstrate the user flow
   - It is expected that the prototype will be developed using a design tool ([list of tools available here](resources.md?id=design-tools))
 - Choose a SDLC model that you will be following for the project
-  - Briefly explain why you chose this model
+  - This SDLC must be based on one of the variations introduced in class
+  - Briefly explain why you chose this model 
 - Develop a work breakdown structure (WBS) of all the tasks associated with the project 
   - Prioritize tasks based on dependencies and importance
   - By the end of this milestone, these tasks should be written as tickets (Github Issues) and added to the github project 
 - Project schedule with milestones and deadlines
   - This should provide a timeline for the project, including when each feature will be developed and tested
+  - It is recommended to schedule internal deadlines and include buffer days between the internal and actual deadlines
 - A risk assessment of potential issues that may arise during the project and how you plan on mitigating them
-  - Include at least 5 low-risk, 3 medium-risk, and 2 high-risk issues (10 total) with mitigation strategies for each
+  - Include at least 5 low-risk, 5 medium-risk, and 5 high-risk issues (15 total) with mitigation strategies for each
 - Use Data Flow Diagrams (level 0 and level 1) to outline how data flows within the application
   - Between the APIs and your application
 - MVC model diagram for the application
   - This should include a high-level overview of how the application will be structured and a description of each component
+- Appendix with any additional information that was not included in the main report
+  - Provide a list of all group members and their detailed contributions to the project
+  - Provide a changelog table that includes any revisions since the proposal 
+  - Any additional diagrams, charts, or tables that were not included in the main report
 
 **Video Presentation:**
 
-- Create a video presentation (with subtitles) intended for your classmates, TA and instructor (6 mins max)
-  - This will be reviewed by other groups and the teaching team to get a better understanding of your project. 
-  - Each group member should have at least a 1-2 minute(s) speaking role in the presentation
-    - You do not need to necessarily show your faces in the video, but it is highly encouraged
-    - Make sure to introduce yourselves at the beginning of the presentation
-  - Make sure to practice your presentation multiple times before the actual presentation
-    - Ensure transitions between speakers are smooth and that the presentation flows well
-  - The audio should be clear and easy to understand
-  - The video should be engaging and informative
-  - A `10%` penalty will be applied to videos over the time limit
+Create a video presentation (with subtitles) intended for your classmates, TA and instructor (6 mins max)
+- This will be reviewed by other groups and the teaching team to get a better understanding of your project. 
+  - Your video will be peer reviewed and accessible by all students in the class
+- Each group member should have at least a 1-2 minute(s) speaking role in the presentation
+  - You do not need to necessarily show your faces in the video, but it is highly encouraged
+  - Make sure to introduce yourselves at the beginning of the presentation
+- Make sure to practice your presentation multiple times before the actual presentation
+  - Ensure transitions between speakers are smooth and that the presentation flows well
+- The audio should be clear and easy to understand
+- The video should be engaging and informative
+- A `10%` penalty will be applied to videos over the time limit
 - The video should include:
-  - A brief overview of the project and the problem it aims to solve (~1 minute)
-  - A high-level overview of the chosen APIs and the features you plan to implement (~2 minutes)
-    - Use personas and user stories to explain how these features will benefit the user
-  - A walkthrough of the mid-fidelity prototype (~2 minutes)
-    - This doesn't need to be a detailed walkthrough, but should give a general idea of how the application will look and function
-  - A high-level overview of application data flow (DFD or MVC diagram) (~1 minute)
-    - This should show how data flows between the APIs and the application
+- A brief overview of the project and the problem it aims to solve (~1 minute)
+- A high-level overview of the chosen APIs and the features you plan to implement (~2 minutes)
+  - Use personas and user stories to explain how these features will benefit the user
+- A walkthrough of the mid-fidelity prototype (~2 minutes)
+  - This doesn't need to be a detailed walkthrough, but should give a general idea of how the application will look and function
+- A high-level overview of application data flow (DFD or MVC diagram) (~1 minute)
+  - This should show how data flows between the APIs and the application
  
 </details>
 
@@ -208,7 +233,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 |  Application Testing  | Automated tests should be set up and configured for API 1 features |
 
 
-> **All group members are required to attend this check-in. Any member who fails to attend will receive a `10% deduction` from the overall project grade. No exceptions will be made.**
+> **All group members are required to attend this check-in. Any member who fails to attend will receive a `10% deduction` from their individual project grade. Individuals who arrive late will also be subject to a penalty of `1%` per minute. No exceptions will be made.**
 
 </details>
 
@@ -251,6 +276,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
   - Include challenges faced during the project and how they were overcome 
 - Appendix with any additional information that was not included in the main report
   - Provide a list of all group members and their detailed contributions to the project
+  - Provide a changelog table that includes any revisions since previous milestones 
   - Peer testing feedback form (survey questions) 
   - All the peer testing feedback received from classmates (survey results)
   - Any additional diagrams, charts, or tables that were not included in the main report
@@ -260,35 +286,40 @@ To prepare for this check-in, your group should submit a 1-page report that incl
 
 - The website should be fully functional and demonstrate the features implemented for each API
 - At the minimum, the application should be tested using:
-  - Unit tests for each feature (automated)
-  - Integration tests for each feature (automated)
-  - Real user testing for each feature (manual)
+  - Unit tests for each feature (automated through CI/CD pipeline)
+  - Integration tests for each feature (automated through CI/CD pipeline)
+  - Real user testing for each feature (manual through in-class session)
     - This should be drawn from your classmates (peer testing session)
 - Application interface should follow Jakob Nielsen's 10 Usability Heuristics
   - [Link to Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics//)
   - [Link to Video Playlist on Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)
   - Application will be thoroughly tested by the teaching team
   - Attention to detail is key in this part of the project
+- There should be no `errors`, `console.logs` or `warnings` in the project Console
+- The root project `README` should include:
+  - Step-by-step instructions for the project to be deployed locally, including instructions to install dependencies. The teaching team will be following these steps to deploy the application and if unsuccessful, the project will be subject to grade deductions
+  - Link to all project website, reports and videos 
 - All source code should be pushed to the project repository and organized in a clear and concise manner
-- The code should be well-documented and follow best practices for the chosen front-end technology stack
-  - At the very least, the code should be linted and formatted correctly
-- Code functions should be modular and reusable where possible
+  - The code should be well-documented and follow best practices for the chosen front-end technology stack
+  - At the very least, the code should be linted and formatted correctly. There should be no "dead code" (e.g., code that is commented out and not used)
+  - Code functions should be modular and reusable where possible. Functions should also have comments describing what they do, their input and output including data format/type.
+  - Logic operations and loops should have comments describing their behaviour/logic in plain English
 
 
 **Presentation:**
 
-- As part of this 8-10 minute **video** presentation (with subtitles), your group will present the following information to the class and teaching team:
-  - An overview of the project and the problem it aims to solve
-  - The chosen APIs and the features you implemented
-    - Use personas and user stories to explain how these features benefit the user
-  - Overview of the CI/CD pipeline and how it was used in the project
-  - Project takeaways and lessons learned
-  - Project demo video (1-2 minutes)
-    - The timing of this video does count towards the 8-10 minute limit (e.g. going above 10 minutes will result in a penalty)
-    - This video should be a demonstration of the application's features on a live website (refer to Hall of Fame projects for examples)
-    - It is recommended to have a voiceover explaining the features being demonstrated but not required
-    - For future job applications, this video can be used as a portfolio piece (make it professional) 
-  - Future work and potential improvements
-  
+As part of this 8-10 minute **video** presentation (with subtitles), your group will present the following information to the class and teaching team:
+- An overview of the project and the problem it aims to solve
+- The chosen APIs and the features you implemented
+  - Use personas and user stories to explain how these features benefit the user
+- Overview of the CI/CD pipeline and how it was used in the project
+- Project takeaways and lessons learned
+- Project demo video (1-2 minutes)
+  - The timing of this video does count towards the 8-10 minute limit (e.g. going above 10 minutes will result in a penalty)
+  - This video should be a demonstration of the application's features on a live website (refer to Hall of Fame projects for examples)
+  - It is recommended to have a voiceover explaining the features being demonstrated but not required
+  - For future job applications, this video can be used as a portfolio piece (make it professional) 
+- Future work and potential improvements
+
  
 </details>
