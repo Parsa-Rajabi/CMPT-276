@@ -156,7 +156,7 @@ Giving and receiving feedback is one of the core activities in this class. When 
 ---
 ### Remarking Policy
 
-As a teaching team, we strive to provide fair and accurate assessments of your work while also providing as much feedback. We encourage you to review the feedback and spend your time/energy where it serves you the most which will be learning from past mistakes and self-improvement. While you reserve your right to ask for a re-grade, we find debating grades an incredible drain on course staff time and energy and prevents us from serving students well and focusing on most important aspects of the course. 
+As a teaching team, we strive to provide fair and accurate assessments of your work while also providing as much feedback. We encourage you to review the feedback and spend your time/energy where it serves you the most which will be learning from past mistakes and self-improvement. While you reserve your right to ask for a re-grade, we find debating grades an incredible drain on course staff time and energy and prevents us from serving students well and focusing on most important aspects of the course. Regrade requests are not an avenue for you to argue or debate about the grading scheme. Regrade requests are meant as a way for you to let us know about situations where the grading scheme may not have been correctly applied to your work.
 
 If you feel a course item has been incorrectly assessed you may request that the item be remarked. However, before making a remarking request, please complete the following steps:
 
