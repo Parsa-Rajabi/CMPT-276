@@ -6,17 +6,6 @@ Once you click the link, a repository will automatically be created for you with
 
 This the tentative schedule for all course labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
 
-<!-- ### Accepting a Github Link as Group 
-
-- Joining a group assignment is slightly different than individual assignments. You must join or create a group before accepting the assignment. 
-- It is recommended for the group project manager to accept the link first, create the group and then the rest of the group members can join the group.
-  - Make sure to do this correctly, as you will not be able to change your group once you have accepted the assignment.
-  - **The group names should be identical to the group names in Canvas (including the number and name**)
-
-Here is an example of how to accept a group assignment. You notice group `G0` has already been created, so joining it is as simple as clicking the join button to the top right of the group name.
-
-![Group Assignment](images/Github-Group.png) -->
-
 ## Labs
 
 | Labs  | Due Date |                              Link                              |
