@@ -45,7 +45,7 @@ I have designed this course so that you will be spending approximately 8 to 10 h
 
 > An overview of various techniques used for software development and software project management. Major tasks and phases in modern software development, including requirements, analysis, documentation, design, implementation, testing,and maintenance. Project management issues are also introduced. Students complete a team project using an iterative development process. Students with credit for CMPT 275 may not take this course for further credit.
 
-You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2023/fall.html).
+You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2025/spring.html).
 
 ---
 
@@ -120,7 +120,7 @@ Non-contribution or “free riding” is not acceptable in this course. Every st
 
 All course items (e.g. labs, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. Labs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned. 
 
-Exams (including the midterm and final) and course project are fixed and cannot be deferred. If you miss an exam, you will receive a score of zero (no exceptions). Project submissions must be made on time, and late submissions will not be accepted.
+Exams (including the midterm and final) and course project have fixed deadline and cannot be Submitted late. If you miss an exam, you will receive a score of zero (no exceptions). Project submissions must be made on time, and late submissions will not be accepted.
 
 Make-up assessments (including assignments, project, exams) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
  
@@ -152,7 +152,7 @@ Giving and receiving feedback is one of the core activities in this class. When 
 ### Project/Lab Policy
 
 - You may not send the instructor or the TAs draft project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
-- labs/projects may be shared/shown in class and online (with no student name/ID). Students will be contacted ahead 
+- labs/projects may be shared/shown in class and online (with no student name/ID). Students will be contacted ahead of time if their work is to be shared.
 ---
 ### Remarking Policy
 
