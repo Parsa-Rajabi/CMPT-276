@@ -25,7 +25,7 @@ Please refer to [teaching team](teaching-team.md) page for how to get in touch w
 ## Course Format 
 
 - **Tuesdays 1:30-2:20 PM - SYRE 2016 (Surrey)**
-- **Thursdays 12:30-2:20 PM - Asynchronous (No live session)**
+- **Thursdays 12:30-2:20 PM - Asynchronous, Flipped Classroom (No live session)**
 
 Lectures will be held **in-person** on Tuesdays from 1:30-2:20pm in SYRE 2016. Thursday session will be dedicated to asynchronous activities such as lecture recordings, assigned readings, videos, labs, and project work (**there will be no live lectures**). Students are expected to attend all live lectures on Tuesdays and participate in all course activities to succeed in the course.
 
@@ -168,12 +168,12 @@ If you feel a course item has been incorrectly assessed you may request that the
 
 Requests must include a written letter for the re-marking and be submitted to the course TA/instructor within 5 business days from receiving the mark or a deadline specified by the TA/instructor, whichever comes first. The request must be signed and submitted via email. 
 
-Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by TA/instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
+> [!WARNING]
+> Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by TA/instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
 
 The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final. 
 
 Each student may submit two remarking request for the term.
-
 
 ## Grade Solicitation Policy
 
