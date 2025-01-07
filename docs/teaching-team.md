@@ -1,15 +1,14 @@
 # Teaching Team
 
 
-|         **Name**          |     **Email** :fas fa-envelope fa-fw:      | **Office Hours**     :fas fa-house-medical: |                                    **Location**                                     |
-| :-----------------------: | :----------------------------------------: | :-----------------------------------------: | :---------------------------------------------------------------------------------: |
-| Parsa Rajabi (Instructor) |    parsa_r [at] `DELETEthisTEXT` sfu.ca    |            Tuesdays 10:20-11:20            |                                      SYRE 5127                                      |
-|    Maryam Rezaie (TA)     | maryam_rezaie [at] `DELETEthisTEXT` sfu.ca |     Wednesdays 3-4 <br> Fridays 9-9:30      | [Zoom Link](https://sfu.zoom.us/j/82375103559?pwd=H3a0RFNsjlyAVY1ccZZurHHKSNgPcT.1) |
-|     Rajat Biswas (TA)     | rajat_biswas [at] `DELETEthisTEXT` sfu.ca  |      Thursdays 2-3 <br> Fridays 8:30-9       |   [Zoom Link](https://sfu.zoom.us/j/83028342385?pwd=3Zv39Z1heCn9ddghGdpHqPTUoFsDdj.1)    |
-
+|         **Name**          |       **Email** :fas fa-envelope fa-fw:       | **Office Hours**     :fas fa-house-medical: |   **Location**    |
+| :-----------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------: |
+| **Parsa** Rajabi (Instructor) |     parsa_r [at] `DELETEthisTEXT` sfu.ca      |            Tuesdays 10:20-11:20             |     SYRE 5127     |
+|   **Tulip** Srivastava (TA)   | tulip_srivastava [at] `DELETEthisTEXT` sfu.ca |                     TBA                     | [Zoom Link TBA]() |
+|   **Harish** Kumaar Senthil Kumar (TA)   | hks48 [at] `DELETEthisTEXT` sfu.ca |                     TBA                     | [Zoom Link TBA]() |
 ## Slack
 
-This term we will be using a [Slack](https://cmpt276-fall2024.slack.com) for all class discussions, including assignment clarifications. Please join the Slack workspace using your SFU student email address (link available on Canvas admin module). Please direct all course-related questions to the Slack workspace (#help channel). For personal matters, please use email. 
+This term we will be using a [Slack](https://cmpt276-spring2025.slack.com) for all class discussions, including assignment clarifications. Please join the Slack workspace using your SFU student email address (link available on Canvas admin module). Please direct all course-related questions to the Slack workspace (#help channel). For personal matters, please use email. 
 
 > Please do NOT send messages via the Canvas messaging system. The Canvas messaging system is not a communication avenue used in the course, and messages sent here may not be seen/responded to until much later.
 
