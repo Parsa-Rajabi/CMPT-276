@@ -2,7 +2,7 @@
 
 ## Disclosure of AI Use
 
-- Link to the [AI Use Disclosure Form](https://bit.ly/CMPT-276-AI-F24)
+- Link to the [AI Use Disclosure Form TBA]
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
