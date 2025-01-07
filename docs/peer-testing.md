@@ -17,10 +17,10 @@ This peer testing session is designed to help you gather real-world feedback on 
 
 1. **Identify Testing Tasks**: Choose 3-5 specific tasks for testers. These should provide meaningful insight into your application’s functionality and usability. Since each tester will complete 1-2 tasks, focus on the tasks that are most relevant to the current development stage.
 
-    Examples:  
-    - Complete a login and navigation flow.
-    - Add an item to the cart and proceed to checkout.
-    - Search and filter data within the application.
+   Examples:  
+   - Complete a login and navigation flow.
+   - Add an item to the cart and proceed to checkout.
+   - Search and filter data within the application.
 
 2. **Prepare Instructions**: Create a document with clear, step-by-step instructions (bullet point is recommended) for each task. Avoid giving additional verbal guidance during the session to ensure a consistent experience for all testers. Include a brief written overview of the app’s purpose, user role, and the scenario your tester should follow.
 

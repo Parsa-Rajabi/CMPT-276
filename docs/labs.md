@@ -1,21 +1,12 @@
-# Assignments & Labs
+# Labs
 
-We are using GitHub Classroom to deliver the assignment and labs for this course. You will first need to create a GitHub account, and then you can accept each Class Activity. Once the assignment/lab is ready, the link will become active, and you will be able to accept the lab in your [GitHub.com](https://github.com/) account.
+We are using GitHub Classroom to deliver the labs for this course. You will first need to create a GitHub account, and then you can accept each Class Activity. Once the lab is ready, the link will become active, and you will be able to accept the lab in your [GitHub.com](https://github.com/) account.
 
-Once you click the link, a repository will automatically be created for you with instructions. You can then work on the assignments and labs, make commits, and push them to GitHub as often as you please. Once the deadline has passed, you will no longer be able to push any changes.
+Once you click the link, a repository will automatically be created for you with instructions. You can then work on the labs, make commits, and push them to GitHub as often as you please. The last commit before the deadline will be the one that is graded.
 
-This the tentative schedule for all course assignments and labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
+This the tentative schedule for all course labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
 
-  ## Assignments
-
-|  Assignment   | Due Date |                                     Link to Accept                                     |
-| :-----------: | :------: | :------------------------------------------------------------------------------------: |
-| A0 (Practice) |    -     |             [Accept A0 on Github](https://classroom.github.com/a/XWNgOgqT)             |
-|  A1  (Group)  |  Oct 15  | [Accept A1 on Github, Join/create your group](https://classroom.github.com/a/CjD_QFUP) |
-|  A2 (Group)   |  Nov 25  | [Accept A2 Github, Join your existing group](https://classroom.github.com/a/VzYCgQzs)  |
-
-
-### Accepting a Github Link as Group 
+<!-- ### Accepting a Github Link as Group 
 
 - Joining a group assignment is slightly different than individual assignments. You must join or create a group before accepting the assignment. 
 - It is recommended for the group project manager to accept the link first, create the group and then the rest of the group members can join the group.
@@ -24,22 +15,21 @@ This the tentative schedule for all course assignments and labs, which is subjec
 
 Here is an example of how to accept a group assignment. You notice group `G0` has already been created, so joining it is as simple as clicking the join button to the top right of the group name.
 
-![Group Assignment](images/Github-Group.png)
+![Group Assignment](images/Github-Group.png) -->
 
 ## Labs
 
 | Labs  | Due Date |                              Link                              |
 | :---: | :------: | :------------------------------------------------------------: |
-| Lab 1 | Sept 23  | [Accept L1 on Github](https://classroom.github.com/a/fV8Qm2Nv) |
-| Lab 2 |  Oct 1   | [Accept L2 on Github](https://classroom.github.com/a/-Ber8Osk) |
-| Lab 3 |  Oct 7   | [Accept L3 on Github](https://classroom.github.com/a/3S-wvDyf) |
-| Lab 4 |  Oct 29  | [Accept L4 on Github](https://classroom.github.com/a/3_xGXKts) |
-| Lab 5 |  Nov 8   | [Accept L5 on Github](https://classroom.github.com/a/hAWjgtUm) |
-| Lab 6 |  Nov 19  | [Accept L6 on Github](https://classroom.github.com/a/mQNLaheI) |
+| Lab 1 |  Jan 17  | [Accept L1 on Github](https://classroom.github.com/a/CyJKJYyB) |
+| Lab 2 |  Jan 27  | [Accept L2 on Github](https://classroom.github.com/a/uywPcX2P) |
+| Lab 3 |  Feb 3   | [Accept L3 on Github](https://classroom.github.com/a/LPN1rLHE) |
+| Lab 4 | March 10 | [Accept L4 on Github](https://classroom.github.com/a/tvMN14lL) |
+| Lab 5 | March 24 | [Accept L5 on Github](https://classroom.github.com/a/u8Bu8q8T) |
 
 ### AI Usage Disclosure
 
-After you completed a class homework (e.g. lab/assignment/project milestone), make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to the homework repository and include the link to PDF in your README file. 
+After you completed a class homework (e.g. lab/project milestone), make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to the homework repository and include the link to PDF in your `README` file. 
 
 Instructions on how to download a PDF file of your MS Form submissions:
 
@@ -78,23 +68,21 @@ Option B:
 
 Name the file in the following format: 
 
-- Assignment: `A#_AI_Declaration_FirstName_LastName_StudentID.pdf`
 - Lab: `L#_AI_Declaration_FirstName_LastName_StudentID.pdf`
 - Project: `P#_AI_Declaration_FirstName_LastName_StudentID.pdf`
 
 Examples:
 
-- Assignment 2: `A2_AI_Declaration_Parsa_Rajabi_301234567.pdf`
 - Lab 4: `L4_AI_Declaration_Parsa_Rajabi_301234567.pdf`
 - Project Milestone 1: `P1_AI_Declaration_Parsa_Rajabi_301234567.pdf`
 
 ### Canvas
 
-All course content include assignments, labs etc. will need to be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/85687/assignments). Not submitting on Canvas will be considered as a missed assignment/lab and the following penalties will be applied:
+All course content include assignments, labs etc. will need to be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/88205/assignments). Not submitting on Canvas will be considered as a missed assignment/lab and the following penalties will be applied:
 
 - 1st instance penalty = -5%
 - 2nd instance penalty = -15%
-- 3rd instance penalty (onwards) = -25%
+- 3rd instance penalty (and onwards) = -25%
 
 Students who not submit on Canvas will be assigned a grade of 0 until they reach out to their TA with the correct submission, within 7 days of the deadline. No missed canvas submission will be accepted after 7 days of the deadline. This is not to be confused with the late submission policy, which is outlined in the course syllabus.
 
