@@ -1,4 +1,5 @@
 - [Syllabus](syllabus)
+- [Schedule](schedule)
 - [AI Policy](ai-policy)
 - [Contact Us](teaching-team)
 - [Mini-Project Details](mini-project)
