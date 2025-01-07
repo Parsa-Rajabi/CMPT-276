@@ -182,7 +182,6 @@ Requests for grade adjustments (especially final course grade) based on non-acad
 Students are expected to meet the academic requirements of the course as outlined in this syllabus. Soliciting grade changes undermines the integrity of the evaluation process and may result in a negative impact on your final grade.
 
 If you have concerns about your performance, you are encouraged to seek feedback early and make use of available resources, such as office hours and course support services, to address any challenges proactively.
-------
 
 ---
 ### SFU Student Code of Conduct
