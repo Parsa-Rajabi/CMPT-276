@@ -3,7 +3,7 @@
 The goal of this mini-project is to provide you with an opportunity to develop a website based on a similar technology stack that you will be using for your final project. To expand on your github skills and knowledge, you will also be deploying the website through Github Pages.
 
 ## Instructions
-0. Accept the mini-project via [Github Classroom](https://classroom.github.com/a/vSmNbncv)
+0. Accept the mini-project via [Github Classroom](https://classroom.github.com/a/fciwRcxX)
 1. Watch the following video to learn more about Github Pages and deploying your website
    - [Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k?si=oH0L3BZo8h9x1Yby)
 2. Come up with a simple website idea
