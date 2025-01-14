@@ -1,11 +1,12 @@
 # Teaching Team
 
 
-|         **Name**          |       **Email** :fas fa-envelope fa-fw:       | **Office Hours**     :fas fa-house-medical: |   **Location**    |
-| :-----------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------: |
-| **Parsa** Rajabi (Instructor) |     parsa_r [at] `DELETEthisTEXT` sfu.ca      |            Tuesdays 10:20-11:20             |     SYRE 5127     |
-|   **Tulip** Srivastava (TA)   | tulip_srivastava [at] `DELETEthisTEXT` sfu.ca |                     TBA                     | [Zoom Link TBA]() |
-|   **Harish** Kumaar Senthil Kumar (TA)   | hks48 [at] `DELETEthisTEXT` sfu.ca |                     TBA                     | [Zoom Link TBA]() |
+|               **Name**               |       **Email** :fas fa-envelope fa-fw:       | **Office Hours**     :fas fa-house-medical: |                                 **Location**                                 |
+| :----------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :--------------------------------------------------------------------------: |
+|    **Parsa** Rajabi (Instructor)     |     parsa_r [at] `DELETEthisTEXT` sfu.ca      |            Tuesdays 10:20-11:20             |                              SYRE 2016 OR 5127                               |
+|      **Tulip** Srivastava (TA)       | tulip_srivastava [at] `DELETEthisTEXT` sfu.ca |            Thursdays 12:30-1:30             | [Booking Link](https://calendly.com/tulip_srivastava-sfu/tulip-office-hours) |
+| **Harish** Kumaar Senthil Kumar (TA) |      hks48 [at] `DELETEthisTEXT` sfu.ca       |              Mondays 1:30-2:30              | [Booking Link](https://calendly.com/harishkumaar161/harish-s-office-hours-1) |
+
 ## Slack
 
 This term we will be using a [Slack](https://cmpt276-spring2025.slack.com) for all class discussions, including assignment clarifications. Please join the Slack workspace using your SFU student email address (link available on Canvas admin module). Please direct all course-related questions to the Slack workspace (#help channel). For personal matters, please use email. 
