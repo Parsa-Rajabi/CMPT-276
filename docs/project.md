@@ -34,7 +34,7 @@ The following schedule is tentative and may change based on the progress of the 
 
 | Project Element |         Deliverable          | Due Dates (11:59pm PST) |
 | :-------------: | :--------------------------: | :---------------------: |
-| Groups Assigned |        Group Contract        |     Monday, Jan 13      |
+| Groups Assigned |        Group Contract        |     Monday, Jan 21      |
 |  M0 - Proposal  |            Report            |      Friday, Feb 7      |
 |  M1 - Planning  |        Report + Video        |      Friday, Mar 7      |
 | M1.5 - Check-in |      Report + Mtg w/ TA      |    Week of Mar 17-21    |
