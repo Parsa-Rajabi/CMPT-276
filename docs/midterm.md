@@ -3,7 +3,7 @@
 <br>
 
 ## Logistics
-- 📅 Date: Tuesday, Oct 22
+- 📅 Date: Tuesday, Feb 25
 - 📍 Where: SYRE 2002 (Note: this is a different room than our usual class)
 - 🕐 When: 8:30-10:20am 
   - Arrive early and account for potential delays
