@@ -50,7 +50,7 @@ The following is a list of the major topics covered so far this term.  It is by 
 - AI Ethics (UNESCO AI Ethics + The Human Ethics of AI)
 - Foresight into AI ethics 
 - ACM Code of Ethics
-  
+
 ### Group Work
 - Conflict styles
 - Conflict resolution
@@ -86,7 +86,7 @@ The following is a list of the major topics covered so far this term.  It is by 
 - Design techniques and processes
 - Gestalt principles
 - Dark patterns
-  
+
 ### Application Architecture
 - Front-end vs. back-end architecture
 - Design patterns, including Model-View-Controller (MVC)
