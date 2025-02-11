@@ -7,6 +7,7 @@
 - [Labs](labs)
 - [Peer Testing](peer-testing)
 - [Resources](resources)
+- [Midterm](midterm)
 - [Feedback](feedback)
 <!-- - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)

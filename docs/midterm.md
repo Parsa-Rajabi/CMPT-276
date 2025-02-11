@@ -5,9 +5,10 @@
 ## Logistics
 - 📅 Date: Tuesday, Feb 25
 - 📍 Where: SYRE 2002 (Note: this is a different room than our usual class)
-- 🕐 When: 8:30-10:20am 
+  - Please wait outside the classroom until you are invited in
+- 🕐 When: 1:30-2:20pm 
   - Arrive early and account for potential delays
-  - Doors will open at 8:15am
+  - Doors will open at 1:25am
   - If you come in late, you will not be given extra time
 - 📚 All in-class lectures + activities, assigned readings, take-home assessments (labs, assignments, project): Weeks 1 through week 7 (inclusive)
 
@@ -35,10 +36,11 @@ The exam will include the following types of questions:
 ## Details
 
 - The exam is closed book, with the exception of one letter-sized, one-sided cheatsheet (can be handwritten or typed)
+  - You can choose to use the cheatsheet or not. It is not mandatory.
+  - The cheatsheet can include any hand drawn or screenshot of graphics, notes, etc. that you think will help you during the exam.
   - The cheatsheet must be submitted with the exam. Make sure to write your full name and student number on it.
-  - Cheatsheets that have been written on both sides will not be allowed.
+  - Cheatsheets that have been written on both sides will not be allowed and taken away
 - You should take the time to review all course materials in detail (including labs, assignments, assigned readings/videos/etc.).
-
 
 ## Topics
 
@@ -89,4 +91,8 @@ The following is a list of the major topics covered so far this term.  It is by 
 - Front-end vs. back-end architecture
 - Design patterns, including Model-View-Controller (MVC)
 - Analysis modeling techniques
+
+### Prompt Engineering
+- Techniques for developing effective prompts for LLMs
+- Improving existing prompts based on principles of effective prompts
 
