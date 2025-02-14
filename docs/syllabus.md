@@ -130,11 +130,12 @@ In all cases, exceptional situations are considered on an individual basis, subj
 
 ### Missed Deliverables
 
-All course content must be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/88205/assignments). Not submitting on Canvas will be considered as a missed submission and the following penalties will be applied:
+All course content, including the AI Disclosure forms, must be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/88205/assignments). Not submitting on Canvas will be considered as a missed submission and the following penalties will be applied:
 
-- 1st instance penalty = -5%
-- 2nd instance penalty = -15%
-- 3rd instance penalty (and onwards) = -25%
+- 1st instance penalty = Formal Warning
+- 2nd instance penalty = -5%
+- 3rd instance penalty = -15%
+- 4th instance penalty (and onwards) = -25%
 
 Students who do not submit on Canvas will be assigned a grade of 0 until they reach out to their TA with the correct submission, within 7 calendar days of the deadline. No missed canvas submission will be accepted after 7 calendar days of the deadline. This is not to be confused with the late submission policy, which is outlined above.
 
