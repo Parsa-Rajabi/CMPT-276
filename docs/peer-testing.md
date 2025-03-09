@@ -9,6 +9,9 @@ This peer testing session is designed to help you gather real-world feedback on 
 - Understand user expectations and refine the user experience.
 - Identify and prioritize usability issues, bugs, and feature enhancements.
 
+> [!WARNING]
+> All students and group members are required to attend and actively engage in the peer testing session. Failure to do so will result in a 10% deduction from their individual project grade.
+
 ---
 
 ## Preparation
