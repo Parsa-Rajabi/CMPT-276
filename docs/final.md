@@ -43,7 +43,7 @@ The following is a list of the major topics covered so far this term. It is by n
 - AI Ethics (UNESCO AI Ethics + The Human Ethics of AI)
 - Foresight into AI ethics 
 - ACM Code of Ethics
-  
+
 ### Group Work
 - Conflict styles
 - Conflict resolution
