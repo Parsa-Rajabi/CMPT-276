@@ -32,13 +32,15 @@ This project is broken down into multiple milestones (click on each to learn mor
 
 The following schedule is tentative and may change based on the progress of the class. Changes will be communicated in class and via the page changelog.
 
-| Project Element |         Deliverable          | Due Dates (11:59pm PST) |
+Schedule to be released soon.
+
+<!-- | Project Element |         Deliverable          | Due Dates (11:59pm PST) |
 | :-------------: | :--------------------------: | :---------------------: |
 | Groups Assigned |        Group Contract        |     Monday, Jan 21      |
 |  M0 - Proposal  |            Report            |      Friday, Feb 7      |
 |  M1 - Planning  |        Report + Video        |      Friday, Mar 7      |
 | M1.5 - Check-in |      Report + Mtg w/ TA      |    Week of Mar 17-21    |
-|  M2 - Delivery  | Report + Presentation + Code |      Tuesday, Apr 8      |
+|  M2 - Delivery  | Report + Presentation + Code |      Tuesday, Apr 8      | -->
 
 
 ## Details
@@ -65,6 +67,11 @@ While the core project requirements are essential, these projects are often well
 
 
 ### 🌟 Hall of Fame 🌟
+<details>
+<summary>Spring 2025</summary>
+- Coming soon...
+</details>
+
 <details>
 <summary>Fall 2024</summary>
 
@@ -107,7 +114,7 @@ Here is an example of how to accept a group project. You notice group `G0` has a
 
 
 **Deliverables:**
-- Project Repository ([Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/h16auAmt)) 
+- Project Repository ([Accept Github Classroom Link + Join Your Group - Link TBA]) 
   - You're encouraged to refer to [this template](https://github.com/CMPT-276-SPRING-2025/CMPT-276-Project-Template) as a starting point for your project repository
 - Proposal Report
 
@@ -291,7 +298,7 @@ To prepare for this check-in, your group should submit a 1-page report that incl
   - Real user testing for each feature (manual through in-class session)
     - This should be drawn from your classmates (peer testing session)
 - Application interface should follow Jakob Nielsen's 10 Usability Heuristics
-  - [Link to Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics//)
+  - [Link to Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
   - [Link to Video Playlist on Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)
   - Application will be thoroughly tested by the teaching team
   - Attention to detail is key in this part of the project

@@ -7,16 +7,17 @@ Once you click the link, a repository will automatically be created for you with
 This the tentative schedule for all course labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
 
 ## Labs
+Lab links (including schedule) to be posted here once the labs are ready. You will be able to accept the lab in your GitHub account.
 
-| Labs  | Due Date |                              Link                              |
+<!-- | Labs  | Due Date |                              Link                              |
 | :---: | :------: | :------------------------------------------------------------: |
-| Lab 1 |  Jan 17  | [Accept L1 on Github](https://classroom.github.com/a/CyJKJYyB) |
-| Lab 2 |  Jan 27  | [Accept L2 on Github](https://classroom.github.com/a/uywPcX2P) |
-| Lab 3 |  Feb 3   | [Accept L3 on Github](https://classroom.github.com/a/LPN1rLHE) |
-| Lab 4 | March 10 | [Accept L4 on Github](https://classroom.github.com/a/tvMN14lL) |
-| Lab 5 | March 24 | [Accept L5 on Github](https://classroom.github.com/a/u8Bu8q8T) |
+| Lab 1 |          | [Accept L1 on Github](https://classroom.github.com/a/YiysRgeQ) |
+| Lab 2 |          | [Accept L2 on Github](https://classroom.github.com/a/EFazkwSK) |
+| Lab 3 |          | [Accept L3 on Github](https://classroom.github.com/a/12jxi3mM) |
+| Lab 4 |          | [Accept L4 on Github](https://classroom.github.com/a/diab_lxp) |
+| Lab 5 |          | [Accept L5 on Github](https://classroom.github.com/a/7UVNZgBt) | -->
 
-### AI Usage Disclosure
+<!-- ### AI Usage Disclosure
 
 After you completed a class homework (e.g. lab/project milestone), make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to the homework repository and include the link to PDF in your `README` file. 
 
@@ -63,11 +64,11 @@ Name the file in the following format:
 Examples:
 
 - Lab 4: `L4_AI_Declaration_Parsa_Rajabi_301234567.pdf`
-- Project Milestone 1: `P1_AI_Declaration_Parsa_Rajabi_301234567.pdf`
+- Project Milestone 1: `P1_AI_Declaration_Parsa_Rajabi_301234567.pdf` -->
 
 ### Canvas
 
-All course content include assignments, labs etc. will need to be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/88205/assignments). Not submitting on Canvas will be considered as a missed assignment/lab and the following penalties will be applied:
+All course content include assignments, labs etc. will need to be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/90645/assignments). Not submitting on Canvas will be considered as a missed assignment/lab and the following penalties will be applied:
 
 - 1st instance penalty = -5%
 - 2nd instance penalty = -15%
@@ -96,7 +97,7 @@ Here are some instructions on how to start working on assignments/labs that are 
   - You can commit changes to your repository **as many times as you like before the deadline** (any commits after the deadline will be ignored)
 - Step 7: Pushing the changes above
   - `git push`
-- Step 8: Copy your repository link and submit the link to [Canvas assignment](https://canvas.sfu.ca/courses/79650/assignments). After the deadline, we will begin marking submitted assignments.
+- Step 8: Copy your repository link and submit the link to [Canvas assignment](https://canvas.sfu.ca/courses/90645/assignments). After the deadline, we will begin marking submitted assignments.
   - The link will look something like this: `https://github.com/CMPT-276-FALL-2024/CMPT-276-assignment-#-[YOUR GITHUB USERNAME]` for example, for A1, it will be `https://github.com/CMPT-276-FALL-2024/CMPT-276-assignment-1-Parsa-Rajabi`
 
 ### Working with Git

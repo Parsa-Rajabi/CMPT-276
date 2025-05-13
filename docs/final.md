@@ -3,6 +3,7 @@
 <br>
 
 ## Logistics
+
 - 📅 Date: Friday, April 25
 - 📍 Where: SYRE 2002 (Note: this is a different room than our usual class)
 - 🕐 When: 3:30-6:30pm (3 hours)

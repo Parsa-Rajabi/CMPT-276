@@ -36,7 +36,15 @@ Lastly, be aware of the dangers of becoming overly dependent on these tools. Whi
 
 ## For every submission, you are required to complete a form called the "AI use disclosure." 
 
-Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. Failure to submit the disclosure will be considered a violation of the academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
+Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. Failure to disclose your AI usage via the form will be considered a violation of the academic policy and a penalty of -25% will be applied to your grade. 
+
+If the form is filled out but the PDF is not submitted to canvas (attached to each of your submissions), then the following penalties will be applied:
+
+- 1st instance penalty = Formal Warning
+- 2nd instance penalty = -5%
+- 3rd instance penalty = -15%
+- 4th instance penalty (and onwards) = -25%
+
 
 ## AI Use for Project
 
