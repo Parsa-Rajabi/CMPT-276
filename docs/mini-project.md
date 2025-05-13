@@ -3,23 +3,23 @@
 The goal of this mini-project is to provide you with an opportunity to develop a website based on a similar technology stack that you will be using for your final project. To expand on your github skills and knowledge, you will also be deploying the website through Github Pages.
 
 ## Instructions
-0. Accept the mini-project via [Github Classroom](https://classroom.github.com/a/LtPf6cUH)
-1. Watch the following video to learn more about Github Pages and deploying your website
+1. Accept the mini-project via [Github Classroom - Link TBA]
+2. Watch the following video to learn more about Github Pages and deploying your website
    - [Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k?si=oH0L3BZo8h9x1Yby)
-2. Come up with a simple website idea
+3. Come up with a simple website idea
    - I recommend using this opportunity to create a personal/portfolio website.
    - Refer to website rubric/requirements below for more details
-3. Set up your website repository on Github (hint: the repo name should be `your-username.github.io`)
+4. Set up your website repository on Github (hint: the repo name should be `your-username.github.io`)
    - Refer to [Github's website](https://pages.github.com/) to learn more about the steps on how to accomplish this
-4. Develop a wireframe of your website using a tool we discussed in class
+5. Develop a wireframe of your website using a tool we discussed in class
    - You're encouraged to use similar tools that you'd be using for your project
    - Refer to resources below for guides on how to create a wireframe
-5. Develop your website using your preferred technology stack
+6. Develop your website using your preferred technology stack
    - This could be a great opportunity to learn a new technology stack, to prepare for your class project
    - Refer to [resources page](https://parsa-rajabi.github.io/CMPT-276/#/resources) on canvas/course website for more information
-6. Deploy with Github Pages
+7. Deploy with Github Pages
    - Refer to [Github's website](https://pages.github.com/) to learn more about the steps on how to accomplish this
-7. Answer the follow-up questions included in the repository
+8. Answer the follow-up questions included in the repository
 
 ## Requirements
 
