@@ -6,7 +6,7 @@ The goal of this project is to create a web application that demonstrates practi
 
 |  Date  |            Changes            |
 | :----: | :---------------------------: |
-| Jan 6  | Project details released (v1) |
+| May 12  | Project details released (v1) |
 
 
 ## Structure
