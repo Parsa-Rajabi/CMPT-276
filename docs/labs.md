@@ -17,7 +17,7 @@ Lab links (including schedule) to be posted here once the labs are ready. You wi
 | Lab 4 |          | [Accept L4 on Github](https://classroom.github.com/a/diab_lxp) |
 | Lab 5 |          | [Accept L5 on Github](https://classroom.github.com/a/7UVNZgBt) | -->
 
-### AI Usage Disclosure
+<!-- ### AI Usage Disclosure
 
 After you completed a class homework (e.g. lab/project milestone), make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to the homework repository and include the link to PDF in your `README` file. 
 
@@ -64,7 +64,7 @@ Name the file in the following format:
 Examples:
 
 - Lab 4: `L4_AI_Declaration_Parsa_Rajabi_301234567.pdf`
-- Project Milestone 1: `P1_AI_Declaration_Parsa_Rajabi_301234567.pdf`
+- Project Milestone 1: `P1_AI_Declaration_Parsa_Rajabi_301234567.pdf` -->
 
 ### Canvas
 
