@@ -3,13 +3,13 @@
 # Course Syllabus
 
 Below is the official SFU-mandated Course Syllabus for CMPT 276.
-Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/88205).
+Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/90645).
 
 **Department of Computing Science**
 
-**Spring 2025 - CMPT 276 (D200)** || **Introduction to Software Engineering (3)**
+**Summer 2025 - CMPT 276 (D200)** || **Introduction to Software Engineering (3)**
 
-- Class Number: 5403
+- Class Number: 3793
 - Delivery Method: In-person in SYRE 2016 (Surrey) + Flipped Classroom (Asynchronous)
 
 ---
@@ -17,17 +17,19 @@ Additional details about the course are available on the [course website](https:
 
 **Name:** Parsa Rajabi
 
-**Office:** SYRE 5127
+**Office:** SYRE 5140
 
 Please refer to [teaching team](teaching-team.md) page for how to get in touch with the instructor and TAs (office hours, email, etc.).
 
 ---
 ## Course Format 
 
-- **Tuesdays 1:30-2:20 PM - SYRE 2016 (Surrey)**
-- **Thursdays 12:30-2:20 PM - Asynchronous, Flipped Classroom (No live session)**
+- **Wednesdays 1:30-2:20 PM - SYRE 2016 (Surrey)**
+- **Fridays 12:30-2:20 PM - Asynchronous, Flipped Classroom (No live session)**
 
-Lectures will be held **in-person** on Tuesdays from 1:30-2:20pm in SYRE 2016. Thursday session will be dedicated to asynchronous activities such as lecture recordings, assigned readings, videos, labs, and project work (**there will be no live lectures**). Students are expected to attend all live lectures on Tuesdays and participate in all course activities to succeed in the course.
+Lectures will be held **in-person** on Wednesdays from 1:30-2:20pm in SYRE 2016. Friday session will be dedicated to activities such as tutorials, lecture recordings, assigned readings, videos, labs, and project work (**there will be NO in-person lectures**). Students are expected to attend all in-person lectures on Wednesdays and participate in all course activities to succeed in the course.
+
+This course requires significant commitment for both the teaching team and the students. The course is designed to be interactive, with a focus on hands-on learning and practical applications of software engineering concepts. Students are expected to actively engage in group work outside of class time and to collaborate with their peers on semester-long project. **A lighter course load is strongly recommended to ensure active participation, high-quality work, and the potential to earn a top grade.**
 
 ### Flipped Classroom
 
@@ -45,7 +47,7 @@ I have designed this course so that you will be spending approximately 8 to 10 h
 
 > An overview of various techniques used for software development and software project management. Major tasks and phases in modern software development, including requirements, analysis, documentation, design, implementation, testing,and maintenance. Project management issues are also introduced. Students complete a team project using an iterative development process. Students with credit for CMPT 275 may not take this course for further credit.
 
-You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2025/spring.html).
+You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2025/summer.html).
 
 ---
 
@@ -82,12 +84,12 @@ The topics for this course are:
 |   **Item**    | **Weight** |
 | :-----------: | :--------: |
 |     Labs      |    10%     |
-|    Midterm    |    25%     |
-| Mini-project  |     5%     |
+|    Midterm    |    23%     |
+| Mini-project  |     7%     |
 | Final Project |    30%     |
 |  Final Exam   |    30%     |
 
-The maximum score for each course component is 100%. The final grade will be calculated based on the weighted average of the components.
+The maximum score for each course component is 100% (e.g. you can not exceed more than 100% in each labs, projects or exams). The final grade will be calculated based on the weighted average of the components.
 
 *Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.*
 
@@ -130,7 +132,7 @@ In all cases, exceptional situations are considered on an individual basis, subj
 
 ### Missed Deliverables
 
-All course content, including the AI Disclosure forms, must be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/88205/assignments). Not submitting on Canvas will be considered as a missed submission and the following penalties will be applied:
+All course content, including the AI Disclosure forms, must be submitted on Canvas via the [assignment tab](https://canvas.sfu.ca/courses/90645/assignments). Not submitting on Canvas will be considered as a missed submission and the following penalties will be applied:
 
 - 1st instance penalty = Formal Warning
 - 2nd instance penalty = -5%
