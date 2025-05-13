@@ -47,7 +47,7 @@ I have designed this course so that you will be spending approximately 8 to 10 h
 
 > An overview of various techniques used for software development and software project management. Major tasks and phases in modern software development, including requirements, analysis, documentation, design, implementation, testing,and maintenance. Project management issues are also introduced. Students complete a team project using an iterative development process. Students with credit for CMPT 275 may not take this course for further credit.
 
-You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2025/summer.html).
+You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2025/summer.html)
 
 ---
 
