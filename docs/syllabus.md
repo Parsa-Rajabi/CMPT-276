@@ -17,7 +17,7 @@ Additional details about the course are available on the [course website](https:
 
 **Name:** Parsa Rajabi
 
-**Office:** SYRE 5140
+**Office:** SYRE 5125
 
 Please refer to [teaching team](teaching-team.md) page for how to get in touch with the instructor and TAs (office hours, email, etc.).
 
