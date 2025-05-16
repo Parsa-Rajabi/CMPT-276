@@ -7,12 +7,10 @@ Once you click the link, a repository will automatically be created for you with
 This the tentative schedule for all course labs, which is subject to change without notice. Please check on a regular basis for the most up-to-date schedule.
 
 ## Labs
-Lab links (including schedule) to be posted here once the labs are ready. You will be able to accept the lab in your GitHub account.
-
-<!-- | Labs  | Due Date |                              Link                              |
-| :---: | :------: | :------------------------------------------------------------: |
-| Lab 1 |          | [Accept L1 on Github](https://classroom.github.com/a/YiysRgeQ) |
-| Lab 2 |          | [Accept L2 on Github](https://classroom.github.com/a/EFazkwSK) |
+| Labs  | Due Date |         Link          | 
+| :---: | :------: | :-------------------: | 
+| Lab 1 |  May 26  | [Accept L1 on Github] |  
+<!--| Lab 2 |          | [Accept L2 on Github](https://classroom.github.com/a/EFazkwSK) |
 | Lab 3 |          | [Accept L3 on Github](https://classroom.github.com/a/12jxi3mM) |
 | Lab 4 |          | [Accept L4 on Github](https://classroom.github.com/a/diab_lxp) |
 | Lab 5 |          | [Accept L5 on Github](https://classroom.github.com/a/7UVNZgBt) | -->
