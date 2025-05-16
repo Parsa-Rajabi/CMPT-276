@@ -1,13 +1,12 @@
 # Teaching Team
 
 
-|           **Name**            |            **Email** :fas fa-envelope fa-fw:            | **Office Hours**     :fas fa-house-medical: |   **Location**    |
-| :---------------------------: | :-----------------------------------------------------: | :-----------------------------------------: | :---------------: |
-| **Parsa** Rajabi (Instructor) |          parsa_r [at] `DELETEthisTEXT` sfu.ca           |            Wednesdays 2:20-3:20             | SYRE 2016 OR 5140 |
-| **Mohammad** Taghizadeh (TA)  | mohammad_taghizadeh_givari [at] `DELETEthisTEXT` sfu.ca |                     TBA                     |  [Booking Link]   |
-|   **Tulip** Srivastava (TA)   |      tulip_srivastava [at] `DELETEthisTEXT` sfu.ca      |                     TBA                     |  [Booking Link]   |
-|      **Vincent** Hu (TA)      |          jiaqingh [at] `DELETEthisTEXT` sfu.ca          |                     TBA                     |  [Booking Link]   |
-
+|             **Name**             |            **Email** :fas fa-envelope fa-fw:            | **Office Hours**     :fas fa-house-medical: |                                   **Location**                                    |
+| :------------------------------: | :-----------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------------------------------------: |
+|    **Parsa** Rajabi (he/him)     |          parsa_r [at] `DELETEthisTEXT` sfu.ca           |            Wednesdays, 2:20-3:20            |                                 SYRE 2016 OR 5140                                 |
+| **Mohammad** Taghizadeh (he/him) | mohammad_taghizadeh_givari [at] `DELETEthisTEXT` sfu.ca |             Fridays, 1:30-2:30              |            [Booking Link](https://calendly.com/ariyataghizadeh/30min)             |
+|  **Tulip** Srivastava (she/her)  |      tulip_srivastava [at] `DELETEthisTEXT` sfu.ca      |               Tuesdays, 12-1                |   [Booking Link](https://calendly.com/tulip_srivastava-sfu/tulip-office-hours)    |
+|     **Vincent** Hu (he/him)      |          jiaqingh [at] `DELETEthisTEXT` sfu.ca          |            Thursdays, 12:30-1:30            | [Booking Link](https://calendly.com/jiaqingh-sfu/cmpt-276-office-hour-vincent-hu) |
 
 ## Slack
 
