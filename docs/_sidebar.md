@@ -1,11 +1,11 @@
 - [Syllabus](syllabus)
 <!-- - [Schedule](schedule) -->
-<!-- - [AI Policy](ai-policy) -->
+- [AI Policy](ai-policy)
 - [Contact Parsa or TAs](teaching-team)
 - [Mini-Project Details](mini-project)
 - [Final Project Details](project)
 - [Labs](labs)
-<!-- - [Peer Testing](peer-testing) -->
+- [Peer Testing](peer-testing)
 - [Resources](resources)
 <!-- - [Midterm](midterm) -->
 - [Feedback](feedback)
