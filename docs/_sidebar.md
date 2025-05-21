@@ -1,5 +1,5 @@
 - [Syllabus](syllabus)
-<!-- - [Schedule](schedule) -->
+- [Schedule](schedule)
 - [AI Policy](ai-policy)
 - [Contact Parsa or TAs](teaching-team)
 - [Mini-Project Details](mini-project)
