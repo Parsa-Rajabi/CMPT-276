@@ -4,9 +4,10 @@ The goal of this project is to create a web application that demonstrates practi
 
 ## Changelog
 
-|  Date  |            Changes            |
-| :----: | :---------------------------: |
-| Jan 6  | Project details released (v1) |
+|  Date  |                  Changes                  |
+| :----: | :---------------------------------------: |
+| Jan 6  |       Project details released (v1)       |
+| May 28 | Added GH link for repos, updated schedule |
 
 
 ## Structure
@@ -32,15 +33,13 @@ This project is broken down into multiple milestones (click on each to learn mor
 
 The following schedule is tentative and may change based on the progress of the class. Changes will be communicated in class and via the page changelog.
 
-Schedule to be released soon.
-
-<!-- | Project Element |         Deliverable          | Due Dates (11:59pm PST) |
+| Project Element |         Deliverable          | Due Dates (11:59pm PST) |
 | :-------------: | :--------------------------: | :---------------------: |
-| Groups Assigned |        Group Contract        |     Monday, Jan 21      |
-|  M0 - Proposal  |            Report            |      Friday, Feb 7      |
-|  M1 - Planning  |        Report + Video        |      Friday, Mar 7      |
-| M1.5 - Check-in |      Report + Mtg w/ TA      |    Week of Mar 17-21    |
-|  M2 - Delivery  | Report + Presentation + Code |      Tuesday, Apr 8      | -->
+| Groups Assigned |        Group Contract        |     Tuesday, May 27     |
+|  M0 - Proposal  |            Report            |     Friday, June 13     |
+|  M1 - Planning  |        Report + Video        |     Friday, July 4      |
+| M1.5 - Check-in |      Report + Mtg w/ TA      |   Week of July 21-25    |
+|  M2 - Delivery  | Report + Presentation + Code |     Friday, Aug 8      |
 
 
 ## Details
@@ -114,7 +113,7 @@ Here is an example of how to accept a group project. You notice group `G0` has a
 
 
 **Deliverables:**
-- Project Repository ([Accept Github Classroom Link + Join Your Group - Link TBA]) 
+- Project Repository [Accept Github Classroom Link + Join Your Group](https://classroom.github.com/a/-1iSlB_x)
   - You're encouraged to refer to [this template](https://github.com/CMPT-276-SPRING-2025/CMPT-276-Project-Template) as a starting point for your project repository
 - Proposal Report
 
