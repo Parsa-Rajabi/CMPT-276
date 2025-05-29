@@ -33,13 +33,15 @@ This project is broken down into multiple milestones (click on each to learn mor
 
 The following schedule is tentative and may change based on the progress of the class. Changes will be communicated in class and via the page changelog.
 
-| Project Element |         Deliverable          | Due Dates (11:59pm PST) |
-| :-------------: | :--------------------------: | :---------------------: |
-| Groups Assigned |        Group Contract        |     Tuesday, May 27     |
-|  M0 - Proposal  |            Report            |     Friday, June 13     |
-|  M1 - Planning  |        Report + Video        |     Friday, July 4      |
-| M1.5 - Check-in |      Report + Mtg w/ TA      |   Week of July 21-25    |
-|  M2 - Delivery  | Report + Presentation + Code |     Friday, Aug 8      |
+| Project Element |    Deliverable     | Due Dates (11:59pm PST) |
+| :-------------: | :----------------: | :---------------------: |
+| Groups Assigned |   Group Contract   |     Tuesday, May 27     |
+|  M0 - Proposal  |       Report       |     Friday, June 13     |
+|  M1 - Planning  |       Report       |     Friday, July 4      |
+|  M1 - Planning  |       Video        |     Monday, July 7      |
+| M1.5 - Check-in | Report + Mtg w/ TA |   Week of July 21-25    |
+|  M2 - Delivery  |   Report + Code    |    Wednesday, Aug 6     |
+|  M2 - Delivery  |    Presentation    |      Friday, Aug 8      |
 
 
 ## Details
