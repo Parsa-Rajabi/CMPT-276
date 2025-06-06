@@ -12,8 +12,8 @@ This the tentative schedule for all course labs, which is subject to change with
 | Lab 1 |  May 26  | [Accept L1 on Github](https://classroom.github.com/a/YiysRgeQ) |
 | Lab 2 |  June 5  | [Accept L2 on Github](https://classroom.github.com/a/EFazkwSK) |
 | Lab 3 | June 16  | [Accept L3 on Github](https://classroom.github.com/a/12jxi3mM) |
-| Lab 4 |          |                     [Accept L4 on Github]                      |
-| Lab 5 |          |                     [Accept L5 on Github]                      |
+| Lab 4 | July 14  |                     [Accept L4 on Github]                      |
+| Lab 5 | July 28  |                     [Accept L5 on Github]                      |
 
 ### AI Usage Disclosure
 
