@@ -28,4 +28,4 @@ This is the tentative schedule for the course which is subject to change without
 |     12     |  Aug 6   |             Wrap up              |                              |                                         |
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQL763pIeY2ErG5boxRTc75Iqef4Gp7ngidH8cTZaChiLXX0-J-XNkhbMDGruNOI9TbFxKbW2L7fdV_/pubhtml?widget=true&amp;headers=false" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQL763pIeY2ErG5boxRTc75Iqef4Gp7ngidH8cTZaChiLXX0-J-XNkhbMDGruNOI9TbFxKbW2L7fdV_/pubhtml?widget=true&amp;headers=false" height="2000"></iframe>
