@@ -30,7 +30,7 @@ This is the tentative schedule for the course which is subject to change without
 
 <iframe 
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQL763pIeY2ErG5boxRTc75Iqef4Gp7ngidH8cTZaChiLXX0-J-XNkhbMDGruNOI9TbFxKbW2L7fdV_/pubhtml?widget=true&amp;headers=false" 
-height="100%" 
+height="2000" 
 width="100%" 
 scrolling="no"
 frameborder="0">
