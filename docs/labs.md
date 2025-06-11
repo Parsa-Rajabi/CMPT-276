@@ -8,9 +8,9 @@ This the tentative schedule for all course labs, which is subject to change with
 
 ## Changelog
 
-|  Date   |              Change Description               |
-| :-----: | :-------------------------------------------: |
-| June 10 | Updated L3 with new link, added L4 + L5 links |
+|  Date   |                   Change Description                   |
+| :-----: | :----------------------------------------------------: |
+| June 10 | Updated L3 with new link/deadline, added L4 + L5 links |
 
 
 ## Labs
@@ -19,7 +19,7 @@ This the tentative schedule for all course labs, which is subject to change with
 | :---: | :------: | :-------------------------------------------------------------: |
 | Lab 1 |  May 26  | [Accept L1 on Github](https://classroom.github.com/a/YiysRgeQ)  |
 | Lab 2 |  June 5  | [Accept L2 on Github](https://classroom.github.com/a/EFazkwSK)  |
-| Lab 3 | June 16  | [Accept L3 on Github ](https://classroom.github.com/a/CtAMBOJk) |
+| Lab 3 | June 21  | [Accept L3 on Github ](https://classroom.github.com/a/CtAMBOJk) |
 | Lab 4 | July 14  | [Accept L4 on Github](https://classroom.github.com/a/wtAa81vX)  |
 | Lab 5 | July 28  | [Accept L5 on Github](https://classroom.github.com/a/7UVNZgBt)  |
 
