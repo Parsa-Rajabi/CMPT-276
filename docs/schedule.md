@@ -8,6 +8,7 @@ This is the tentative schedule for the course which is subject to change without
 | :-----: | :-----: | :---------------------------: |
 |    1    | May 21  |        Initial release        |
 |   1.1   | June 10 | Added tutorials for June/July |
+|    2    | June 10 |    Added dynamic calendar     |
 
 
 | **Week #** | **Date** |    **Wednesday (In-person)**     | **Friday Tutorials (Zoom)**  | **Lecture Recordings (async)**          |
@@ -27,4 +28,4 @@ This is the tentative schedule for the course which is subject to change without
 |     12     |  Aug 6   |             Wrap up              |                              |                                         |
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQL763pIeY2ErG5boxRTc75Iqef4Gp7ngidH8cTZaChiLXX0-J-XNkhbMDGruNOI9TbFxKbW2L7fdV_/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQL763pIeY2ErG5boxRTc75Iqef4Gp7ngidH8cTZaChiLXX0-J-XNkhbMDGruNOI9TbFxKbW2L7fdV_/pubhtml?widget=true&amp;headers=false" height="1000"></iframe>
