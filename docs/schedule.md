@@ -9,23 +9,24 @@ This is the tentative schedule for the course which is subject to change without
 |    1    | May 21  |        Initial release        |
 |   1.1   | June 10 | Added tutorials for June/July |
 |    2    | June 10 |    Added dynamic calendar     |
+|   2.1   | June 12 |  Pushed app. testing by 1 week                             |
 
 
-| **Week #** | **Date** |    **Wednesday (In-person)**     | **Friday Tutorials (Zoom)**  | **Lecture Recordings (async)**          |
-| :--------: | :------: | :------------------------------: | :--------------------------: | :-------------------------------------- |
-|     1      |  May 14  |                                  |   Syllabus + Introduction    | AI Ethics + Github                      |
-|     2      |  May 21  |      Git / Github in Action      |         Git / Github         | Software Development Life Cycles (SDLC) |
-|     3      |  May 28  |          SDLC in Action          |       Team Management        | Project Management (PM)                 |
-|     4      |  June 4  |           PM in Action           |      Intro to HTML/CSS       | Application Design                      |
-|     5      | June 11  | Application Interface Evaluation |      Intro to JS/React       | Application Architecture                |
-|     6      | June 18  |       Architecture Design        |        Intro to APIs         | Time allocated for mini-project         |
-|     7      | June 25  |           **Midterm**            | Drop-in Project Consultation | CI/CD                                   |
-|     8      |  July 2  |         CI/CD In Action          |       CI/CD Pipelines        | Application Testing                     |
-|     9      |  July 9  |    **Guest Speaker via Zoom**    |           Testing            |                                         |
-|     10     | July 16  |           Code Testing           |                              |                                         |
-|     11     | July 23  |     Documentation in Action      |                              |                                         |
-|     11     | July 30  |    Usability Testing Activity    |                              |                                         |
-|     12     |  Aug 6   |             Wrap up              |                              |                                         |
+| **Week #** | **Date** |         **Wednesday (In-person)**          | **Friday Tutorials (Zoom)**  | **Lecture Recordings (async)**          |
+| :--------: | :------: | :----------------------------------------: | :--------------------------: | :-------------------------------------- |
+|     1      |  May 14  |                                            |   Syllabus + Introduction    | AI Ethics + Github                      |
+|     2      |  May 21  |           Git / Github in Action           |         Git / Github         | Software Development Life Cycles (SDLC) |
+|     3      |  May 28  |               SDLC in Action               |       Team Management        | Project Management (PM)                 |
+|     4      |  June 4  |                PM in Action                |      Intro to HTML/CSS       | Application Design                      |
+|     5      | June 11  |      Application Interface Evaluation      |      Intro to JS/React       | Application Architecture                |
+|     6      | June 18  |            Architecture Design             |        Intro to APIs         | Time allocated for mini-project         |
+|     7      | June 25  |                **Midterm**                 | Drop-in Project Consultation | CI/CD                                   |
+|     8      |  July 2  |              CI/CD In Action               |       CI/CD Pipelines        |                                         |
+|     9      |  July 9  | **Guest Speaker via Zoom* - No In-person** |                              | Application Testing                     |
+|     10     | July 16  |                Code Testing                |           Testing            |                                         |
+|     11     | July 23  |          Documentation in Action           |                              |                                         |
+|     11     | July 30  |         [Usability Testing Activity](peer-testing.md) **Required Attendance**         |                              |                                         |
+|     12     |  Aug 6   |                  Wrap up                   |                              |                                         |
 
 
 <iframe 
