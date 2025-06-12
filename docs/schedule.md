@@ -9,7 +9,8 @@ This is the tentative schedule for the course which is subject to change without
 |    1    | May 21  |        Initial release        |
 |   1.1   | June 10 | Added tutorials for June/July |
 |    2    | June 10 |    Added dynamic calendar     |
-|   2.1   | June 12 |  Pushed app. testing by 1 week                             |
+|   2.1   | June 12 | Pushed app. testing by 1 week |
+|   2.2   | June 12 |         Fixed week #s         |
 
 
 | **Week #** | **Date** |         **Wednesday (In-person)**          | **Friday Tutorials (Zoom)**  | **Lecture Recordings (async)**          |
@@ -25,8 +26,8 @@ This is the tentative schedule for the course which is subject to change without
 |     9      |  July 9  | **Guest Speaker via Zoom* - No In-person** |                              | Application Testing                     |
 |     10     | July 16  |                Code Testing                |           Testing            |                                         |
 |     11     | July 23  |          Documentation in Action           |                              |                                         |
-|     11     | July 30  |         [Usability Testing Activity](peer-testing.md) **Required Attendance**         |                              |                                         |
-|     12     |  Aug 6   |                  Wrap up                   |                              |                                         |
+|     12     | July 30  |         [Usability Testing Activity](peer-testing.md) **Required Attendance**         |                              |                                         |
+|     13     |  Aug 6   |                  Wrap up                   |                              |                                         |
 
 
 <iframe 
