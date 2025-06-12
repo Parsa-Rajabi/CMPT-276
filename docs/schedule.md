@@ -23,7 +23,7 @@ This is the tentative schedule for the course which is subject to change without
 |     6      | June 18  |            Prompt Engineering (+Architecture design)             |        Intro to APIs         | Time allocated for mini-project         |
 |     7      | June 25  |                **Midterm**                 | Drop-in Project Consultation | CI/CD                                   |
 |     8      |  July 2  |              CI/CD In Action               |       CI/CD Pipelines        |                                         |
-|     9      |  July 9  | **Guest Speaker via Zoom* - No In-person** |                              | Application Testing                     |
+|     9      |  July 9  | *Guest Speaker via Zoom* - **No In-person** |                              | Application Testing                     |
 |     10     | July 16  |                Code Testing                |           Testing            |                                         |
 |     11     | July 23  |          Documentation in Action           |                              |                                         |
 |     12     | July 30  |         [Usability Testing Activity](peer-testing.md) **Required Attendance**         |                              |                                         |
