@@ -4,5 +4,5 @@
 - [Contact Parsa or TAs](teaching-team)
 - [Final Project](project) 
 - [Labs](labs)
-<!-- - [Midterm](midterm) -->
+- [Midterm](midterm)
 - [Resources](resources)
