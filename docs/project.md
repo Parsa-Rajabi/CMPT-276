@@ -4,10 +4,11 @@ The goal of this project is to create a web application that demonstrates practi
 
 ## Changelog
 
-|  Date  |                  Changes                  |
-| :----: | :---------------------------------------: |
-| Jan 6  |       Project details released (v1)       |
-| May 28 | Added GH link for repos, updated schedule |
+|  Date   |                  Changes                  |
+| :-----: | :---------------------------------------: |
+|  Jan 6  |       Project details released (v1)       |
+| May 28  | Added GH link for repos, updated schedule |
+| June 19 |         Added Spring Hall of Fame         |
 
 
 ## Structure
@@ -70,14 +71,18 @@ While the core project requirements are essential, these projects are often well
 ### 🌟 Hall of Fame 🌟
 <details>
 <summary>Spring 2025</summary>
-- Coming soon...
+
+- Best Website Award: [Deep Phishing](https://deep-phishing.vercel.app/), [Presentation](https://www.youtube.com/watch?v=51Vm4dMfB8s)
+- Best Project Presentation: [ReZoomé Presentation](https://youtu.be/5YBn54XooJI?si=b6M-qmC5hopdzfZN), [Demo Video](https://www.youtube.com/watch?v=tNU9Gm32i-0)
+- People's Choice Award: [SkyFare Presentation](https://drive.google.com/file/d/1-eFannEOlw6r018tpSvGqF9tHfrX2GHn/view)
+- Teaching Team Award: [BrainGoated](https://braingoated.netlify.app/), [Presentation](https://youtu.be/hO3A0SJO3FQ), [Demo Video](https://youtu.be/OD7oiYLfeZQ)
 </details>
 
 <details>
 <summary>Fall 2024</summary>
 
-- WanderWise - [Video Presentation](https://youtu.be/WI8YdPw-tSo?si=bdsa13SOyyLZpcX-)
-- MindstreamAI - [Video Presentation](https://www.youtube.com/watch?v=8oSEa6JYfmg&ab_channel=raghavahuja), [Website Link](https://mindstreamai.onrender.com/) 
+- WanderWise - [Presentation](https://youtu.be/WI8YdPw-tSo?si=bdsa13SOyyLZpcX-)
+- MindstreamAI - [ Presentation](https://www.youtube.com/watch?v=8oSEa6JYfmg&ab_channel=raghavahuja), [Website Link](https://mindstreamai.onrender.com/) 
 </details>
 
 <details>

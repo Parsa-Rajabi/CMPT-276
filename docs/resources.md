@@ -2,6 +2,12 @@
 
 This page contains a list of resources that you may find useful throughout the course. If you have any suggestions for resources to add to this page, please submit a pull request.
 
+## Changelog
+
+|  Date   |          Changes          |
+| :-----: | :-----------------------: |
+| June 19 | Added API Guide/Resources |
+
 ## Git/Github
 
 - [Hello World tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
@@ -11,6 +17,17 @@ This page contains a list of resources that you may find useful throughout the c
 - [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
 - [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+## API Guide/Resources
+- [What is an API?](https://www.ibm.com/cloud/learn/api)
+- [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
+- [API Guide with Example](API-Guide.md)
+  - [API Testing with Postman](https://www.postman.com/)
+  - [Postman Learning Center](https://learning.postman.com/docs/getting-started/introduction/)
+- [Github API Documentation](https://docs.github.com/en/rest) - GitHub's REST API documentation
+- [How to store API keys - Netlify](https://www.netlify.com/blog/a-guide-to-storing-api-keys-securely-with-environment-variables/)
+- [How to store API keys - Vercel](https://vercel.com/docs/environment-variables)
+- [Claude free credits for students](https://www.anthropic.com/contact-sales/for-student-builders)
 
 ## Web Development
 
@@ -152,8 +169,6 @@ The following tools can be used to create wireframes and prototypes for your pro
 ### Other
 
 - [What is a tech stack?](https://heap.io/topics/what-is-a-tech-stack)
-- [What is an API?](https://www.ibm.com/cloud/learn/api)
-- [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
 - [CI/CD and DevOps](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 - [What is CI/CD?](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
 - [What is software development?](https://www.atlassian.com/software-development)
